@@ -1,0 +1,8 @@
+{
+  "conta": "conecta",
+  "quando": "2026-11-17 12:30",
+  "tipo": "carrossel",
+  "midia": ["1.png", "2.png", "3.png"],
+  "legenda": "Exemplo de legenda.\n\nComenta QUERO que te mando o link.",
+  "aprovado": false
+}

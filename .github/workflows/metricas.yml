@@ -1,0 +1,38 @@
+name: Instagram — Métricas semanais
+
+on:
+  schedule:
+    - cron: "41 10 * * 1"   # segunda 07:41 (Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+env:
+  TZ: America/Sao_Paulo
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Puxar métricas
+        env:
+          IG_TOKEN_PESSOAL: ${{ secrets.IG_TOKEN_PESSOAL }}
+          IG_TOKEN_CONECTA: ${{ secrets.IG_TOKEN_CONECTA }}
+        run: python metricas.py
+      - name: Salvar
+        run: |
+          git config user.name "conecta-instagram"
+          git config user.email "conecta-instagram@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Métricas $(date +%F)"
+          git pull --rebase -q origin main && git push
