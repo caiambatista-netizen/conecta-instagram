@@ -59,6 +59,8 @@ def main():
             continue
         p = json.loads(pj.read_text())
         quando = datetime.strptime(p["quando"], "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
+        if p.get("via") == "metricool":
+            continue  # agendado pelo Metricool, não pela API
         if quando <= agora and p.get("aprovado"):
             vencidos.append((pasta, p))
 
