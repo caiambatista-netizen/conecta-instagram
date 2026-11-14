@@ -31,6 +31,7 @@ export type Scene = {
   title: string;
   sub?: string;
   items?: string[];
+  itemTimes?: number[];
   price?: string;
   cta?: string;
 };
@@ -135,7 +136,8 @@ const SceneView: React.FC<{ scene: Scene; total: number }> = ({ scene, total }) 
         {scene.items && (
           <div style={{ marginTop: 56, display: "flex", flexDirection: "column", gap: 34 }}>
             {scene.items.map((it, i) => {
-              const s = spring({ frame: frame - afterTitle - i * 16, fps, config: { damping: 15, stiffness: 120 } });
+              const startF = scene.itemTimes && scene.itemTimes[i] !== undefined ? Math.round(scene.itemTimes[i] * fps) : afterTitle + i * 16;
+              const s = spring({ frame: frame - startF, fps, config: { damping: 15, stiffness: 120 } });
               const [num, ...rest] = it.split(" ");
               const isNum = /^\d+$/.test(num);
               return (
