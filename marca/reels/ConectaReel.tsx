@@ -77,7 +77,7 @@ const KineticTitle: React.FC<{ text: string; theme: Theme; size: number; delay?:
         const isHi = hiOpen;
         if (ends) hiOpen = false;
         const w = raw.replace(/\*/g, "");
-        const s = spring({ frame: frame - delay - i * 3, fps, config: { damping: 14, stiffness: 140 } });
+        const s = spring({ frame: frame - delay - i * 5, fps, config: { damping: 16, stiffness: 90 } });
         return (
           <span key={i} style={{ display: "inline-block", overflow: "hidden", paddingBottom: size * 0.12, marginBottom: -size * 0.12 }}>
             <span style={{ display: "inline-block", transform: `translateY(${(1 - s) * 110}%)`, opacity: s, color: isHi ? c.hi : c.text }}>{w}</span>
@@ -111,7 +111,7 @@ const SceneView: React.FC<{ scene: Scene; total: number }> = ({ scene, total }) 
   const ghostRot = interpolate(frame, [0, total], [-6, 6]);
   const ghostY = interpolate(frame, [0, total], [30, -30]);
   const titleWords = scene.title.split(" ").length;
-  const afterTitle = 8 + titleWords * 3 + 8;
+  const afterTitle = 8 + titleWords * 5 + 14;
 
   return (
     <AbsoluteFill style={{ transform: `translateY(${enter}%)` }}>
@@ -135,7 +135,7 @@ const SceneView: React.FC<{ scene: Scene; total: number }> = ({ scene, total }) 
         {scene.items && (
           <div style={{ marginTop: 56, display: "flex", flexDirection: "column", gap: 34 }}>
             {scene.items.map((it, i) => {
-              const s = spring({ frame: frame - afterTitle - i * 9, fps, config: { damping: 15, stiffness: 120 } });
+              const s = spring({ frame: frame - afterTitle - i * 16, fps, config: { damping: 15, stiffness: 120 } });
               const [num, ...rest] = it.split(" ");
               const isNum = /^\d+$/.test(num);
               return (

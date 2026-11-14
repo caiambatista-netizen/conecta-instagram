@@ -1,8 +1,55 @@
-{"scenes":[
- {"theme":"escuro","seconds":3.6,"kind":"title","title":"Você pode estar *perdendo pacientes…*","sub":"…antes mesmo da primeira sessão."},
- {"theme":"claro","seconds":3.6,"kind":"title","title":"A primeira mensagem no *WhatsApp* decide se a conversa continua."},
- {"theme":"escuro","seconds":3.2,"kind":"title","title":"A confiança começa no *primeiro contato.*","sub":"Antes de qualquer sessão."},
- {"theme":"claro","seconds":4.0,"kind":"list","title":"3 pilares:","items":["01 Clareza","02 Acolhimento","03 Profissionalismo"]},
- {"theme":"escuro","seconds":4.2,"kind":"list","eyebrow":"Guia digital","title":"Primeiro Contato que Conecta","items":["Princípios do 1º contato","Orientações práticas","Material de consulta rápida"]},
- {"theme":"claro","seconds":4.4,"kind":"price","title":"Pare de improvisar o *primeiro contato.*","price":"R$ 14,90","cta":"Acesso imediato · Link na bio"}
-]}
+{
+ "scenes": [
+  {
+   "theme": "escuro",
+   "seconds": 5.5,
+   "kind": "title",
+   "title": "Você pode estar *perdendo pacientes…*",
+   "sub": "…antes mesmo da primeira sessão."
+  },
+  {
+   "theme": "claro",
+   "seconds": 5.5,
+   "kind": "title",
+   "title": "A primeira mensagem no *WhatsApp* decide se a conversa continua."
+  },
+  {
+   "theme": "escuro",
+   "seconds": 5.0,
+   "kind": "title",
+   "title": "A confiança começa no *primeiro contato.*",
+   "sub": "Antes de qualquer sessão."
+  },
+  {
+   "theme": "claro",
+   "seconds": 6.0,
+   "kind": "list",
+   "title": "3 pilares:",
+   "items": [
+    "01 Clareza",
+    "02 Acolhimento",
+    "03 Profissionalismo"
+   ]
+  },
+  {
+   "theme": "escuro",
+   "seconds": 6.5,
+   "kind": "list",
+   "eyebrow": "Guia digital",
+   "title": "Primeiro Contato que Conecta",
+   "items": [
+    "Princípios do 1º contato",
+    "Orientações práticas",
+    "Material de consulta rápida"
+   ]
+  },
+  {
+   "theme": "claro",
+   "seconds": 7.0,
+   "kind": "price",
+   "title": "Pare de improvisar o *primeiro contato.*",
+   "price": "R$ 14,90",
+   "cta": "Acesso imediato · Link na bio"
+  }
+ ]
+}
