@@ -1,0 +1,37 @@
+{
+ "scenes": [
+  {
+   "theme": "escuro",
+   "seconds": 4.93,
+   "kind": "title",
+   "title": "Você não precisa estar *no limite* pra começar terapia."
+  },
+  {
+   "theme": "claro",
+   "seconds": 6.67,
+   "kind": "title",
+   "title": "Às vezes é só um *cansaço que não passa…*",
+   "sub": "…ou uma conversa que você vive adiando."
+  },
+  {
+   "theme": "escuro",
+   "seconds": 4.11,
+   "kind": "title",
+   "title": "E tudo bem não saber *por onde começar.*"
+  },
+  {
+   "theme": "claro",
+   "seconds": 9.13,
+   "kind": "title",
+   "title": "A gente te aproxima de um profissional *compatível com você.*",
+   "sub": "Você responde algumas perguntas. A Conecta faz a ponte."
+  },
+  {
+   "theme": "escuro",
+   "seconds": 8.8,
+   "kind": "title",
+   "title": "O primeiro contato é um *acolhimento gratuito.*",
+   "sub": "100% online · conectaterapias.com.br"
+  }
+ ]
+}
