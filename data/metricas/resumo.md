@@ -1,4 +1,4 @@
-# Métricas Instagram — 2026-11-16
+# Métricas Instagram — 2026-11-23
 
 ## pessoal
 ERRO: Secret IG_TOKEN_PESSOAL não configurado
