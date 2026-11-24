@@ -1,0 +1,27 @@
+{
+  "regras": {
+    "posts_por_execucao": 2,
+    "intervalo_minimo_dias_por_grupo": 7,
+    "postar_como": "Página Conecta Terapias",
+    "cta": "Comente QUERO",
+    "proibido": ["posts para pacientes em grupos", "grupos de terapeutas holísticos/energéticos sem aprovação do Caiam", "preço, urgência, promoção", "listas numeradas 1. 2. 3."]
+  },
+  "grupos": [
+    {"nome": "Neuropsicopedagogia", "categoria": "neuropsicopedagogos"},
+    {"nome": "Psicopedagogia e psicologia na Educação PNPE", "categoria": "psicopedagogos e psicólogos escolares"},
+    {"nome": "NEUROPSICOLOGIA", "categoria": "neuropsicólogos"},
+    {"nome": "Fonoaudiologia Brasil", "categoria": "fonoaudiólogos"},
+    {"nome": "Fonoaudiologia", "categoria": "fonoaudiólogos"},
+    {"nome": "Terapeutas Ocupacionais", "categoria": "terapeutas ocupacionais"},
+    {"nome": "Recursos para Terapia Ocupacional", "categoria": "terapeutas ocupacionais"},
+    {"nome": "Vagas para Psicólogos Brasil", "categoria": "psicólogos"},
+    {"nome": "Vagas para Psicologo SP", "categoria": "psicólogos"},
+    {"nome": "Acompanhamento Terapêutico (AT)", "categoria": "acompanhantes terapêuticos"},
+    {"nome": "Vagas Psicologia Social BRASIL", "categoria": "psicólogos"},
+    {"nome": "Emprego em Psicologia", "categoria": "psicólogos"},
+    {"nome": "Psicanalistas&futuros &Psicanalistas", "categoria": "psicanalistas"},
+    {"nome": "Neuropsicopedagógico", "categoria": "neuropsicopedagogos"}
+  ],
+  "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
+  "variar": "Reescrever a 1ª e a 2ª frase a cada post (nunca repetir o texto exato do post anterior no mesmo grupo). Manter o formato 'VAGA: [categoria]' e o CTA QUERO."
+}
