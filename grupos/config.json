@@ -1,27 +1,101 @@
 {
   "regras": {
-    "posts_por_execucao": 2,
+    "posts_por_execucao": "2 profissionais + 1 pacientes",
     "intervalo_minimo_dias_por_grupo": 7,
     "postar_como": "Página Conecta Terapias",
     "cta": "Comente QUERO",
-    "proibido": ["posts para pacientes em grupos", "grupos de terapeutas holísticos/energéticos sem aprovação do Caiam", "preço, urgência, promoção", "listas numeradas 1. 2. 3."]
+    "proibido": [
+      "grupos de terapeutas holísticos/energéticos sem aprovação do Caiam",
+      "preço, urgência, promoção",
+      "listas numeradas 1. 2. 3."
+    ]
   },
   "grupos": [
-    {"nome": "Neuropsicopedagogia", "categoria": "neuropsicopedagogos"},
-    {"nome": "Psicopedagogia e psicologia na Educação PNPE", "categoria": "psicopedagogos e psicólogos escolares"},
-    {"nome": "NEUROPSICOLOGIA", "categoria": "neuropsicólogos"},
-    {"nome": "Fonoaudiologia Brasil", "categoria": "fonoaudiólogos"},
-    {"nome": "Fonoaudiologia", "categoria": "fonoaudiólogos"},
-    {"nome": "Terapeutas Ocupacionais", "categoria": "terapeutas ocupacionais"},
-    {"nome": "Recursos para Terapia Ocupacional", "categoria": "terapeutas ocupacionais"},
-    {"nome": "Vagas para Psicólogos Brasil", "categoria": "psicólogos"},
-    {"nome": "Vagas para Psicologo SP", "categoria": "psicólogos"},
-    {"nome": "Acompanhamento Terapêutico (AT)", "categoria": "acompanhantes terapêuticos"},
-    {"nome": "Vagas Psicologia Social BRASIL", "categoria": "psicólogos"},
-    {"nome": "Emprego em Psicologia", "categoria": "psicólogos"},
-    {"nome": "Psicanalistas&futuros &Psicanalistas", "categoria": "psicanalistas"},
-    {"nome": "Neuropsicopedagógico", "categoria": "neuropsicopedagogos"}
+    {
+      "nome": "Neuropsicopedagogia",
+      "categoria": "neuropsicopedagogos"
+    },
+    {
+      "nome": "Psicopedagogia e psicologia na Educação PNPE",
+      "categoria": "psicopedagogos e psicólogos escolares"
+    },
+    {
+      "nome": "NEUROPSICOLOGIA",
+      "categoria": "neuropsicólogos"
+    },
+    {
+      "nome": "Fonoaudiologia Brasil",
+      "categoria": "fonoaudiólogos"
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "categoria": "fonoaudiólogos"
+    },
+    {
+      "nome": "Terapeutas Ocupacionais",
+      "categoria": "terapeutas ocupacionais"
+    },
+    {
+      "nome": "Recursos para Terapia Ocupacional",
+      "categoria": "terapeutas ocupacionais"
+    },
+    {
+      "nome": "Vagas para Psicólogos Brasil",
+      "categoria": "psicólogos"
+    },
+    {
+      "nome": "Vagas para Psicologo SP",
+      "categoria": "psicólogos"
+    },
+    {
+      "nome": "Acompanhamento Terapêutico (AT)",
+      "categoria": "acompanhantes terapêuticos"
+    },
+    {
+      "nome": "Vagas Psicologia Social BRASIL",
+      "categoria": "psicólogos"
+    },
+    {
+      "nome": "Emprego em Psicologia",
+      "categoria": "psicólogos"
+    },
+    {
+      "nome": "Psicanalistas&futuros &Psicanalistas",
+      "categoria": "psicanalistas"
+    },
+    {
+      "nome": "Neuropsicopedagógico",
+      "categoria": "neuropsicopedagogos"
+    }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
-  "variar": "Reescrever a 1ª e a 2ª frase a cada post (nunca repetir o texto exato do post anterior no mesmo grupo). Manter o formato 'VAGA: [categoria]' e o CTA QUERO."
+  "variar": "Reescrever a 1ª e a 2ª frase a cada post (nunca repetir o texto exato do post anterior no mesmo grupo). Manter o formato 'VAGA: [categoria]' e o CTA QUERO.",
+  "grupos_pacientes": [
+    {
+      "nome": "ansiedade e depressão"
+    },
+    {
+      "nome": "Luto - Saudade Eterna"
+    },
+    {
+      "nome": "Apoio a pessoas com TDAH"
+    },
+    {
+      "nome": "Mães atípicas e autistas"
+    },
+    {
+      "nome": "VÍTIMA DO NARCISISTA"
+    },
+    {
+      "nome": "depressão e ansiedade"
+    },
+    {
+      "nome": "Saúde Mental e Emocional"
+    },
+    {
+      "nome": "Meu psicólogo"
+    }
+  ],
+  "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
+  "entrar_em_grupos": "Pode pedir para entrar (como a página Conecta Terapias, ou o perfil se a página não puder) em até 3 grupos novos por execução: grupos ativos (posts recentes), do tema certo (categorias de profissionais da lista ou saúde mental/apoio para pacientes), com regras que não proíbam divulgação. Nunca grupos holísticos/energéticos, 18+, de política ou religião. Anotar no log os grupos pedidos; quando aprovados, adicionar à lista."
 }
