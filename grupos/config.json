@@ -13,7 +13,8 @@
   "grupos": [
     {
       "nome": "Neuropsicopedagogia",
-      "categoria": "neuropsicopedagogos"
+      "categoria": "neuropsicopedagogos",
+      "link": "https://www.facebook.com/groups/1828727610733931/"
     },
     {
       "nome": "Psicopedagogia e psicologia na Educação PNPE",
@@ -29,7 +30,8 @@
     },
     {
       "nome": "Fonoaudiologia",
-      "categoria": "fonoaudiólogos"
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/194272290645417/"
     },
     {
       "nome": "Terapeutas Ocupacionais",
@@ -66,6 +68,16 @@
     {
       "nome": "Neuropsicopedagógico",
       "categoria": "neuropsicopedagogos"
+    },
+    {
+      "nome": "Fonoaudiologia - Divulgação de Cursos da Área e Afins.",
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/163275770487257/"
+    },
+    {
+      "nome": "Terapia Ocupacional - Saúde Funcional",
+      "categoria": "terapeutas ocupacionais",
+      "link": "https://www.facebook.com/groups/444665502277354/"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -94,6 +106,14 @@
     },
     {
       "nome": "Meu psicólogo"
+    },
+    {
+      "nome": "Pais de crianças com TEA, TDAH, DDA, Dislexia, DPAC, TOD, DEL e outros",
+      "link": "https://www.facebook.com/groups/333163490468950/"
+    },
+    {
+      "nome": "AUTISTA, TEA, TDAH e NEURODIVERGENTES",
+      "link": "https://www.facebook.com/groups/3478498825616158/"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
