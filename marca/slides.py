@@ -33,7 +33,7 @@ async def main(out, data):
     total = len(data)
     async with async_playwright() as p:
         b = await p.chromium.launch(executable_path="/usr/bin/google-chrome")
-        pg = await b.new_page(viewport={"width": 1080, "height": 1350})
+        pg = await b.new_page(viewport={"width": 1080, "height": 1350}, device_scale_factor=float(__import__("os").environ.get("SCALE","1")))
         for i, s in enumerate(data, 1):
             cta = f"<div class='cta'>Comenta {s['cta']}</div>" if s.get("cta") else ""
             html = f"""<html><head><style>{CSS}</style></head><body class='{s["tema"]}'>
