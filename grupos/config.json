@@ -22,7 +22,8 @@
     },
     {
       "nome": "NEUROPSICOLOGIA",
-      "categoria": "neuropsicólogos"
+      "categoria": "neuropsicólogos",
+      "link": "https://www.facebook.com/groups/267335870050078/"
     },
     {
       "nome": "Fonoaudiologia Brasil",
@@ -39,7 +40,8 @@
     },
     {
       "nome": "Recursos para Terapia Ocupacional",
-      "categoria": "terapeutas ocupacionais"
+      "categoria": "terapeutas ocupacionais",
+      "link": "https://www.facebook.com/groups/1704253742940955/"
     },
     {
       "nome": "Vagas para Psicólogos Brasil",
@@ -51,7 +53,8 @@
     },
     {
       "nome": "Acompanhamento Terapêutico (AT)",
-      "categoria": "acompanhantes terapêuticos"
+      "categoria": "acompanhantes terapêuticos",
+      "link": "https://www.facebook.com/groups/1424406751164325/"
     },
     {
       "nome": "Vagas Psicologia Social BRASIL",
@@ -78,6 +81,16 @@
       "nome": "Terapia Ocupacional - Saúde Funcional",
       "categoria": "terapeutas ocupacionais",
       "link": "https://www.facebook.com/groups/444665502277354/"
+    },
+    {
+      "nome": "PSICOPEDAGOGIA & APRENDIZAGEM",
+      "categoria": "psicopedagogos",
+      "link": "https://www.facebook.com/groups/2280751315318897/"
+    },
+    {
+      "nome": "Psicopedagogos",
+      "categoria": "psicopedagogos",
+      "link": "https://www.facebook.com/groups/244318332309163/"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -93,7 +106,8 @@
       "nome": "Apoio a pessoas com TDAH"
     },
     {
-      "nome": "Mães atípicas e autistas"
+      "nome": "Mães atípicas e autistas",
+      "link": "https://www.facebook.com/groups/1409987380247589/"
     },
     {
       "nome": "VÍTIMA DO NARCISISTA"
@@ -114,6 +128,10 @@
     {
       "nome": "AUTISTA, TEA, TDAH e NEURODIVERGENTES",
       "link": "https://www.facebook.com/groups/3478498825616158/"
+    },
+    {
+      "nome": "MÃES E PAIS DE CRIANÇAS COM TDA/TDAH",
+      "link": "https://www.facebook.com/groups/1655806294713515/"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
