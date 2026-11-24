@@ -17,3 +17,11 @@
 | 2026-11-24 19:58 | Recursos para Terapia Ocupacional (9,7 mil) | profissionais (VAGA terapeutas ocupacionais) | publicado | https://www.facebook.com/groups/1704253742940955/ |
 | 2026-11-24 20:07 | Mães atípicas e autistas (11,3 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/1409987380247589/ |
 | 2026-11-24 | obs | — | 2ª execução paralela no mesmo dia (outra sessão já tinha postado às 19:25–19:55) | próximos para pacientes: Mães de TDAH /groups/438664620511665/, CONVIVENDO COM TDAH /groups/563687887096230/ |
+| 2026-11-24 19:56 | Terapia Ocupacional - Saúde Funcional (5 mil) | profissionais (VAGA terapeutas ocupacionais) — 2ª rodada manual | publicado | https://www.facebook.com/groups/444665502277354/ |
+| 2026-11-24 19:57 | Monte sua clínica - Psicólogo online (4,5 mil) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1711990055521845/ |
+| 2026-11-24 19:57 | Depressão/Ansiedade (20,8 mil) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/2531538977093935/ |
+| 2026-11-24 19:57 | PSICOLOGIA ψ (2,3 mil) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/162296430494895/ |
+| 2026-11-24 19:58 | PNPE (psicopedagogia, neuropsicopedagogia e psicologia na Educação) | profissionais | pulado: post da Conecta pendente desde 19/11 | https://www.facebook.com/groups/1226746884395357/ |
+| 2026-11-24 19:58 | Neuropsicopedagogos e Psicopedagogos a favor da Educação | profissionais | pulado: post da Conecta pendente de aprovação | https://www.facebook.com/groups/162239357857639/ |
+| 2026-11-24 20:11 | PSICOLOGIA ψ (2,3 mil) | profissionais (VAGA psicólogos) — 2ª rodada manual | publicado | https://www.facebook.com/groups/162296430494895/ |
+| 2026-11-24 20:19 | obs | — | 3ª execução simultânea (outra sessão fez a rodada manual 19:44–20:07). Post de pacientes desta execução NÃO foi feito para evitar excesso no mesmo dia | — |
