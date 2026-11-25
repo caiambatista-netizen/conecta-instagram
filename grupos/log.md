@@ -94,3 +94,4 @@
 | 2026-11-25 17:47 | FONOAUDIOLOGOS (2,4 mil, ~3 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/343529579075985/ |
 | 2026-11-25 17:46 | Psicopedagogiando todo dia / Grupo dos psicólogos clínicos de expressão portuguesa | busca | pulados: regras proíbem promoção/publicidade | /groups/1626126110990002/ · /groups/413203982160976/ |
 | 2026-11-25 18:10 | Grupo das mães de disléxicos, TDAH, autistas e outros transtornos. (27,6 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/619701198599472/ |
+| 2026-11-25 18:45 | Vagas para Psicólogos Brasil | profissionais (VAGA psicólogos) | publicado | https://www.facebook.com/groups/1090015912535279/ |
