@@ -280,6 +280,11 @@
       "link": "https://www.facebook.com/groups/1121495496464913/",
       "entrou": "2026-11-25",
       "obs": "~27 posts/dia, sem regras contra divulgação"
+    },
+    {
+      "nome": "Grupo das mães de disléxicos, TDAH, autistas e outros transtornos.",
+      "link": "https://www.facebook.com/groups/619701198599472/",
+      "obs": "27,6 mil; publica direto"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -498,6 +503,7 @@
     "outros transtornos (TDAH, autistas)": "pac",
     "Eu sou mãe de um autista \"o grupo\"": "pac",
     "Fonoaudiologia (13 mil) /groups/194272290645417/": "prof",
-    "Autismo não se cura, se compreende": "pac"
+    "Autismo não se cura, se compreende": "pac",
+    "Grupo das mães de disléxicos, TDAH, autistas e outros transtornos.": "pac"
   }
 }
