@@ -63,3 +63,4 @@
 | 2026-11-25 12:51 | TDAH - Deficit de Atenção & Hiperatividade - Dicas de uma Mae (159,8 mil, ~20 posts/dia; aceita páginas) | entrada (pacientes) | pedido pendente | https://www.facebook.com/groups/630755013667418/ |
 | 2026-11-25 13:10 | Depressão/Ansiedade (20,8 mil) | pacientes | pulado: sem caixa de post para a página | https://www.facebook.com/groups/2531538977093935/ |
 | 2026-11-25 13:11 | Mães de crianças TEA (TRANSTORNO ESPECTRO AUTISTA) (12,8 mil) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (página ainda em análise como novo membro) | https://www.facebook.com/groups/1486205731624661/ |
+| 2026-11-25 13:44 | TERAPIA OCUPACIONAL ❤❤❤ (1,6 mil) | profissionais (VAGA terapeutas ocupacionais) | pendente de aprovação | https://www.facebook.com/groups/1463497008698938/ |
