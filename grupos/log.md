@@ -100,3 +100,6 @@
 | 2026-11-25 18:46 | TDAH - TRANSTORNO DO DÉFICIT DE ATENÇÃO E HIPERATIVIDADE (6,2 mil) | busca | pulado: regras proíbem propaganda | https://www.facebook.com/groups/2897550410318654/ |
 | 2026-11-25 19:10 | Tudo Sobre o Universo Do Autismo ( Autistas ) (9,8 mil, ~37 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/693947955890971/ |
 | 2026-11-25 19:45 | Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem (2,8 mil, 11 posts/dia) | profissionais (VAGA psicopedagogos) | publicado | https://www.facebook.com/groups/2350064468431304/ |
+| 2026-11-25 19:52 | TDAH/TDA/AUTISMO... (7,3 mil, ~3 posts/dia, regras só pedem respeito) | entrada (pacientes) | pedido pendente | https://www.facebook.com/groups/1657106127925930/ |
+| 2026-11-25 19:54 | Indicação de Psicólogos Brasileiros (9,6 mil, privado, divulgação de psicólogos; aceita páginas) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/psicologosbrasileiros/ |
+| 2026-11-25 19:50 | Psicopedagogia - Ludoterapia - Neuropsicopedagogia / NEUROPSICOPEDAGOGIA E PSICOPEDAGOGIA // TDAH - AUTISMO | busca | pulados: grupo parado (1 post/mês); grupo-vitrine de uma clínica | /groups/2909131299323144/ · /groups/ativamenteautismotdah/ |
