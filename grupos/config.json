@@ -200,6 +200,13 @@
       "link": "https://www.facebook.com/groups/psicologosbrasileiros/",
       "entrou": "2026-11-25",
       "obs": "9,6 mil, privado, grupo de divulgação de psicólogos"
+    },
+    {
+      "nome": "GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC",
+      "categoria": "psicólogos (TCC)",
+      "link": "https://www.facebook.com/groups/312814832126082/",
+      "entrou": "2026-11-25",
+      "obs": "2,6 mil, ~3 posts/dia; regra: ser psicólogo ou psiquiatra"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -320,6 +327,12 @@
       "nome": "Autismo (15,2 mil)",
       "link": "https://www.facebook.com/groups/2554986664725877/",
       "obs": "~36 posts/dia, sem regras; publica direto"
+    },
+    {
+      "nome": "mãe de crianças com autismo",
+      "link": "https://www.facebook.com/groups/644398575762071/",
+      "entrou": "2026-11-25",
+      "obs": "6,9 mil, ~14 posts/dia, sem regras contra divulgação"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -513,8 +526,6 @@
     "Neuropsicopedagogia": "prof",
     "Fonoaudiologia": "prof",
     "AUTISTA, TEA, TDAH e NEURODIVERGENTES": "pac",
-    "Acompanhamento Terapêutico": "prof",
-    "Recursos para Terapia Ocupacional": "prof",
     "Mães atípicas e autistas": "pac",
     "Terapia Ocupacional - Saúde Funcional": "prof",
     "PSICOLOGIA ψ": "prof",

@@ -104,3 +104,8 @@
 | 2026-11-25 19:47 | Indicação de Psicólogos Brasileiros (9,6 mil, privado, divulgação de psicólogos; aceita páginas) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/psicologosbrasileiros/ |
 | 2026-11-25 19:46 | Psicopedagogia - Ludoterapia - Neuropsicopedagogia / NEUROPSICOPEDAGOGIA E PSICOPEDAGOGIA // TDAH - AUTISMO | busca | pulados: grupo parado (1 post/mês); grupo-vitrine de uma clínica | /groups/2909131299323144/ · /groups/ativamenteautismotdah/ |
 | 2026-11-25 20:10 | Autismo (15,2 mil, ~36 posts/dia, sem regras) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/2554986664725877/ |
+| 2026-11-25 20:44 | Acompanhamento Terapêutico (AT) (12,6 mil) / Recursos para Terapia Ocupacional (9,7 mil) | profissionais | pulados: posts da Conecta de 24/11 ainda aguardando aprovação (log anterior marcou como publicado; removidos de grupos_publica_direto) | /groups/1424406751164325/ · /groups/1704253742940955/ |
+| 2026-11-25 20:45 | Terapia Ocupacional - Saúde Funcional (5 mil) | profissionais (VAGA terapeutas ocupacionais) | publicado | https://www.facebook.com/groups/444665502277354/ |
+| 2026-11-25 20:47 | GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC (2,6 mil, ~3 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/312814832126082/ |
+| 2026-11-25 20:48 | mãe de crianças com autismo (6,9 mil, ~14 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/644398575762071/ |
+| 2026-11-25 20:46 | TCC - Terapia Cognitivo-Comportamental (36,6 mil) | busca | pulado: grupo parado (0 posts no último mês) | https://www.facebook.com/groups/tccibneuro/ |
