@@ -103,3 +103,4 @@
 | 2026-11-25 19:46 | TDAH/TDA/AUTISMO... (7,3 mil, ~3 posts/dia, regras só pedem respeito) | entrada (pacientes) | pedido pendente | https://www.facebook.com/groups/1657106127925930/ |
 | 2026-11-25 19:47 | Indicação de Psicólogos Brasileiros (9,6 mil, privado, divulgação de psicólogos; aceita páginas) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/psicologosbrasileiros/ |
 | 2026-11-25 19:46 | Psicopedagogia - Ludoterapia - Neuropsicopedagogia / NEUROPSICOPEDAGOGIA E PSICOPEDAGOGIA // TDAH - AUTISMO | busca | pulados: grupo parado (1 post/mês); grupo-vitrine de uma clínica | /groups/2909131299323144/ · /groups/ativamenteautismotdah/ |
+| 2026-11-25 20:10 | Autismo (15,2 mil, ~36 posts/dia, sem regras) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/2554986664725877/ |

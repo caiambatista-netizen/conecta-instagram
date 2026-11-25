@@ -315,6 +315,11 @@
       "nome": "Tudo Sobre o Universo Do Autismo ( Autistas )",
       "link": "https://www.facebook.com/groups/693947955890971/",
       "obs": "9,8 mil, ~37 posts/dia, sem regras contra divulgação"
+    },
+    {
+      "nome": "Autismo (15,2 mil)",
+      "link": "https://www.facebook.com/groups/2554986664725877/",
+      "obs": "~36 posts/dia, sem regras; publica direto"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -536,6 +541,7 @@
     "Autismo não se cura, se compreende": "pac",
     "Grupo das mães de disléxicos, TDAH, autistas e outros transtornos.": "pac",
     "Tudo Sobre o Universo Do Autismo ( Autistas )": "pac",
-    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof"
+    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof",
+    "Autismo (15,2 mil)": "pac"
   }
 }
