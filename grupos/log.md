@@ -99,3 +99,4 @@
 | 2026-11-25 18:47 | Autismo e educação 📖📚 (15,4 mil, ~7 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/454352358021812/ |
 | 2026-11-25 18:46 | TDAH - TRANSTORNO DO DÉFICIT DE ATENÇÃO E HIPERATIVIDADE (6,2 mil) | busca | pulado: regras proíbem propaganda | https://www.facebook.com/groups/2897550410318654/ |
 | 2026-11-25 19:10 | Tudo Sobre o Universo Do Autismo ( Autistas ) (9,8 mil, ~37 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/693947955890971/ |
+| 2026-11-25 19:45 | Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem (2,8 mil, 11 posts/dia) | profissionais (VAGA psicopedagogos) | publicado | https://www.facebook.com/groups/2350064468431304/ |
