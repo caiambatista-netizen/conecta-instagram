@@ -102,6 +102,10 @@
       "nome": "PSICOLOGIA ψ",
       "categoria": "psicólogos",
       "link": "https://www.facebook.com/groups/162296430494895/"
+    },
+    {
+      "nome": "Dicas psicopedagógicas",
+      "link": "https://www.facebook.com/groups/366748050835273/"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -148,6 +152,11 @@
       "nome": "Depressão/Ansiedade",
       "link": "https://www.facebook.com/groups/2531538977093935/",
       "obs": "regra: não divulgar outros grupos"
+    },
+    {
+      "nome": "🧩Mães Atípicas🧩",
+      "link": "https://www.facebook.com/groups/1504464517338283/",
+      "obs": "regra: evitar política"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",

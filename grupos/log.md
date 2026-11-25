@@ -26,3 +26,7 @@
 | 2026-11-24 20:11 | PSICOLOGIA ψ (2,3 mil) | profissionais (VAGA psicólogos) — 2ª rodada manual | publicado | https://www.facebook.com/groups/162296430494895/ |
 | 2026-11-24 20:19 | obs | — | 3ª execução simultânea (outra sessão fez a rodada manual 19:44–20:07). Post de pacientes desta execução NÃO foi feito para evitar excesso no mesmo dia | — |
 | 2026-11-24 21:45 | MÃES E PAIS DE CRIANÇAS COM TDA/TDAH (10,2 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/1655806294713515/ |
+| 2026-11-24 21:48 | Dicas psicopedagógicas (10,7 mil) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/366748050835273/ |
+| 2026-11-24 21:48 | 🧩Mães Atípicas🧩 (19,5 mil) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1504464517338283/ |
+| 2026-11-24 21:48 | AT e Mediadores Escolares/ ABA e Denver | busca | pulado: inativo (3 posts no mês) | https://www.facebook.com/groups/223201129831467/ |
+| 2026-11-24 21:48 | Messenger | respondidas | Tayne Amabile Cichelli (psicologia infantil) e Rita Baltar (neuropsicopedagoga/ABA): modelo profissional com CTA | — |
