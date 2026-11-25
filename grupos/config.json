@@ -157,6 +157,12 @@
       "nome": "Fonoaudiologia (RN/Brasil, 3,6 mil)",
       "categoria": "fonoaudiólogos",
       "link": "https://www.facebook.com/groups/254384184589671/"
+    },
+    {
+      "nome": "AT Acompanhante Terapêutico (3,4 mil)",
+      "categoria": "acompanhantes terapêuticos",
+      "link": "https://www.facebook.com/groups/1772414050184136/",
+      "obs": "entrou em 25/11; descrição aceita divulgação de vagas AT"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -222,6 +228,11 @@
       "nome": "grupo mães de crianças autistas",
       "link": "https://www.facebook.com/groups/599650020995159/",
       "obs": "8,1 mil, ~27 posts/dia, sem regras contra divulgação"
+    },
+    {
+      "nome": "Explicando o autismo",
+      "link": "https://www.facebook.com/groups/706090341223652/",
+      "obs": "29,7 mil, ~110 posts/dia, regras sem proibição de divulgação; entrou em 25/11"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",

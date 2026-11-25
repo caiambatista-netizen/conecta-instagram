@@ -69,3 +69,6 @@
 | 2026-11-25 13:51 | Mães e Pais de Crianças Com Autismo!! (143,9 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/878593935507457/ |
 | 2026-11-25 14:10 | grupo mães de crianças autistas (8,1 mil) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (página em análise como novo membro) | https://www.facebook.com/groups/599650020995159/ |
 | 2026-11-25 14:44 | Fonoaudiologia (3,6 mil, RN/Brasil) | profissionais (VAGA fonoaudiólogos) | publicado | https://www.facebook.com/groups/254384184589671/ |
+| 2026-11-25 14:46 | Explicando o autismo (29,7 mil, ~110 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/706090341223652/ |
+| 2026-11-25 14:46 | AT Acompanhante Terapêutico (3,4 mil; aceita vagas AT) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1772414050184136/ |
+| 2026-11-25 14:46 | Neuropsicopedagogia (11,7 mil) / Psicopedagogia Institucional e Clínica / Psicologia SC | busca | pulados: regras proíbem promoção (os 2 primeiros); SC é coletivo de mobilização da categoria | /groups/278463860259527/ · /groups/950118901786598/ · /groups/fortalecersc/ |
