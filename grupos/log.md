@@ -32,3 +32,5 @@
 | 2026-11-24 21:48 | Messenger | respondidas | Tayne Amabile Cichelli (psicologia infantil) e Rita Baltar (neuropsicopedagoga/ABA): modelo profissional com CTA | — |
 | 2026-11-24 22:09 | PSICOPEDAGOGIA & APRENDIZAGEM (104,8 mil) | profissionais (VAGA psicopedagogos) | pendente de aprovação | https://www.facebook.com/groups/2280751315318897/ |
 | 2026-11-24 22:08 | Messenger | respondida | Lucas Oliveira (psicopedagogia/neuropsicopedagogia): modelo profissional com CTA. Nada pendente para o Caiam | — |
+| 2026-11-25 07:12 | obs | — | execução disparou às 07:06, antes da janela (8h43–21h43): posts e pedidos de entrada NÃO feitos; só Messenger | — |
+| 2026-11-25 07:12 | Messenger | respondidas (14) | modelo profissional com CTA: Heleuza Delage Silva, Deise Dillenburg, Michelle Godoy, Ana Claudia Argentino, Elisabete (perfil "Rainha Uva Uva"), Carolina Marques, Anna Mat, Josimar Oliveira, Cardoso Ro Gi (sem primeiro nome claro), Andreza Barcaro, Claudia Simone Moreira (TCC), Najla Costa, Gercilene Viana, Andréia Amorim, Casiandra Keller; modelo paciente: Cintia Borges ("como é o trabalho de vcs?"). Nada pendente para o Caiam | — |
