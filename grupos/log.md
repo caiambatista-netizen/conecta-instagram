@@ -50,3 +50,9 @@
 | 2026-11-25 09:11 | Psicopedagogos (2,7 mil) | profissionais (VAGA psicopedagogos) | publicado | https://www.facebook.com/groups/244318332309163/ |
 | 2026-11-25 09:13 | Messenger | respondidas (3) | modelo profissional com CTA: Livian Machado (psicopedagoga), Edlaine Vercillo (psicopedagogia); modelo estagiário: Fernanda Gabriela Santos ("Vocês recebem para estágio?") | — |
 | 2026-11-25 09:13 | Messenger | para o Caiam | Cintia Borges (09:08): "Como estou entrando no mercado, qual valor da consulta que normalmente cobram" — pergunta de valor de sessão, fora dos modelos; não respondida | — |
+| 2026-11-25 09:45 | Derepente mãe de autista.! (20,2 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/732537100724522/ |
+| 2026-11-25 09:48 | Psicologia (12,9 mil, BH) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/758270731596857/ |
+| 2026-11-25 09:49 | Mães de crianças TEA (TRANSTORNO ESPECTRO AUTISTA) (12,8 mil; regras aceitam anúncio de terapias) | entrada (pacientes) | entrou; aceite de regras fechado sem responder; posts passam por análise | https://www.facebook.com/groups/1486205731624661/ |
+| 2026-11-25 09:48 | AUTISMO ADULTO, INFANTIL, TDA, TDAH. / Psicologia e Educação Infantil / Mães de TDAH | busca | pulados: regras proíbem promoção | /groups/1746752929304914/ · /groups/psicologiaeducacao2017/ · /groups/438664620511665/ |
+| 2026-11-25 09:50 | Messenger | respondidas (2) | modelo profissional com CTA: Jaciara Faion (psicopedagoga), Bruna Beltrao (psicóloga e psicopedagoga) | — |
+| 2026-11-25 09:50 | Messenger | para o Caiam | Cintia Borges (09:37): "Qual valor seria acessível?" (segue perguntando valor de sessão); Jhenifer Emanuely Quadros (09:26): "Formada em Pedagogia" (pedagogia não está na lista de profissões); Fernanda Gabriela Santos: "Muito obrigada vou indicar" (sem resposta necessária) | — |
