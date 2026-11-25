@@ -9,7 +9,8 @@
       "preço, urgência, promoção",
       "listas numeradas 1. 2. 3."
     ],
-    "pendentes": "Post com 0–1 visualização normalmente NÃO é grupo morto: ficou pendente de aprovação/em análise. Antes de postar num grupo, abra a aba do grupo e veja se há post da Conecta 'aguardando aprovação'; se houver, não poste de novo ali e anote 'pendente' no log. Só considere grupo morto depois de 2 posts APROVADOS com 0 comentários."
+    "pendentes": "Post com 0–1 visualização normalmente NÃO é grupo morto: ficou pendente de aprovação/em análise. Antes de postar num grupo, abra a aba do grupo e veja se há post da Conecta 'aguardando aprovação'; se houver, não poste de novo ali e anote 'pendente' no log. Só considere grupo morto depois de 2 posts APROVADOS com 0 comentários.",
+    "garantir_post": "Cada post da rodada TEM que sair publicado. Ordem de tentativa: (1) grupos_publica_direto do público certo que não receberam post há 3+ dias; (2) grupos maiores/ativos já membros; (3) grupos novos. Se o post ficar 'pendente', conte como tentativa e tente o próximo grupo da lista, até 3 tentativas por post. Grupo que publicar direto → adicionar em grupos_publica_direto. Grupos onde a página entrou há menos de 3 dias = 'aquecimento': só usar se as opções (1) e (2) acabarem."
   },
   "grupos": [
     {
@@ -421,5 +422,19 @@
       "data": "2026-11-24",
       "texto": "Formato 'OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚' (abertura em caixa alta + lista de áreas + 'ampliando a rede') rendeu 6,5–23,7 coment./post em 21/11 (TO 69, PNPE 68, Vagas 59), acima do 'VAGA: X que atendem online' (8,7/post, mas posts de hoje ainda frescos; Neuropsicopedagogia 46 em 3h). Testar os dois em paralelo antes de trocar o modelo. 'Sua agenda ainda depende só de indicações?' fraco (0,6/post). '🚨 VAGA — PROFISSIONAIS DA SAÚDE' 23/11 quase tudo 1 visualização (grupos novos/pendentes)."
     }
-  ]
+  ],
+  "grupos_publica_direto": {
+    "Neuropsicopedagogia": "prof",
+    "Fonoaudiologia": "prof",
+    "AUTISTA, TEA, TDAH e NEURODIVERGENTES": "pac",
+    "Acompanhamento Terapêutico": "prof",
+    "Recursos para Terapia Ocupacional": "prof",
+    "Mães atípicas e autistas": "pac",
+    "Terapia Ocupacional - Saúde Funcional": "prof",
+    "PSICOLOGIA ψ": "prof",
+    "MÃES E PAIS DE CRIANÇAS COM TDA/TDAH": "pac",
+    "Pais de crianças com TEA, TDAH, DDA, Dislexia, DPAC, TOD, DEL e outros": "pac",
+    "Psicopedagogos": "prof",
+    "Derepente mãe de autista.!": "pac"
+  }
 }
