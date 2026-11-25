@@ -59,3 +59,5 @@
 | 2026-11-25 12:45 | Psicologia (12,9 mil, BH) | profissionais (VAGA psicólogos) | pendente de aprovação | https://www.facebook.com/groups/758270731596857/ |
 | 2026-11-25 12:44 | NEUROPSICOLOGIA | profissionais | pulado: post da Conecta pendente desde 23/11 | https://www.facebook.com/groups/267335870050078/ |
 | 2026-11-25 12:44 | Monte sua clínica - Psicólogo online | profissionais | pulado: entrada da página ainda em análise | https://www.facebook.com/groups/1711990055521845/ |
+| 2026-11-25 12:50 | TERAPIA OCUPACIONAL ❤❤❤ (1,6 mil, 8 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1463497008698938/ |
+| 2026-11-25 12:51 | TDAH - Deficit de Atenção & Hiperatividade - Dicas de uma Mae (159,8 mil, ~20 posts/dia; aceita páginas) | entrada (pacientes) | pedido pendente | https://www.facebook.com/groups/630755013667418/ |
