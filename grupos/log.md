@@ -38,3 +38,5 @@
 | 2026-11-25 07:15 | Fonoaudiologia (7,2 mil, 8 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/275335445922101/ |
 | 2026-11-25 07:15 | CONVIVENDO COM TDAH - PAIS E FILHOS (5,5 mil) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/563687887096230/ |
 | 2026-11-25 07:16 | Messenger | respondida | Arleth Rocha (neuropsicopedagoga/psicopedagoga): modelo profissional com CTA | — |
+| 2026-11-25 07:38 | Dicas psicopedagógicas (10,7 mil) | profissionais (VAGA psicopedagogos) — rodada extra pedida pelo Caiam | pendente de aprovação | https://www.facebook.com/groups/366748050835273/ |
+| 2026-11-25 07:37 | Messenger | para o Caiam | Deise Dillenburg disse "Já fiz o cadastro" (07:26); Cintia Borges, depois do link de pacientes, perguntou de novo "Como funciona" (07:29). Fora dos modelos, não respondidas | — |
