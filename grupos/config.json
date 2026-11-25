@@ -173,6 +173,13 @@
       "link": "https://www.facebook.com/groups/1536398956669386/",
       "entrou": "2026-11-25",
       "obs": "4,3 mil; descrição aceita anúncios"
+    },
+    {
+      "nome": "Psicanálise Online",
+      "categoria": "psicanalistas",
+      "link": "https://www.facebook.com/groups/860725707987696/",
+      "entrou": "2026-11-25",
+      "obs": "2,4 mil, ~8 posts/dia, sem regras contra divulgação"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -254,6 +261,12 @@
       "nome": "Eu sou mãe de um autista \"o grupo\"",
       "link": "https://www.facebook.com/groups/180424552773384/",
       "obs": "12,8 mil, ~24 posts/dia, regras só pedem respeito; publica direto"
+    },
+    {
+      "nome": "Psicanalista para Todos",
+      "link": "https://www.facebook.com/groups/2060558200918169/",
+      "entrou": "2026-11-25",
+      "obs": "6,7 mil, ~9 posts/dia, foco ansiedade/depressão, sem regras contra divulgação"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -470,6 +483,7 @@
     "Luto - Saudade Eterna": "pac",
     "Apoio a pessoas com TDAH": "pac",
     "outros transtornos (TDAH, autistas)": "pac",
-    "Eu sou mãe de um autista \"o grupo\"": "pac"
+    "Eu sou mãe de um autista \"o grupo\"": "pac",
+    "Fonoaudiologia (13 mil) /groups/194272290645417/": "prof"
   }
 }

@@ -84,3 +84,6 @@
 | 2026-11-25 16:45 | Psicologia Geral (2,1 mil, grupo de compra e venda) | profissionais (VAGA psicólogos) | pendente de aprovação (tentativa 2) | https://www.facebook.com/groups/812587872128289/ |
 | 2026-11-25 16:46 | AT Acompanhante Terapêutico (8,7 mil) / Neuropsicopedagogia | profissionais | pulados: post da Conecta aguardando aprovação (AT); post de ontem ainda no topo com 109 comentários (Neuro) | /groups/6132097473507834/ · /groups/1828727610733931/ |
 | 2026-11-25 16:47 | Fonoaudiologia (13 mil) | profissionais (VAGA fonoaudiólogos) | publicado (tentativa 3) | https://www.facebook.com/groups/194272290645417/ |
+| 2026-11-25 16:50 | Psicanalista para Todos (6,7 mil, ~9 posts/dia, ansiedade/depressão) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/2060558200918169/ |
+| 2026-11-25 16:53 | Psicanálise Online (2,4 mil, ~8 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/860725707987696/ |
+| 2026-11-25 16:52 | Associação brasileira de Psicologia clínica (7,6 mil) / Encontre um psicólogo / Terapia Ocupacional (6,3 mil) | busca | pulados: exige CRP no post; só cartões de psicólogos e grupo parado; pouca atividade (14 posts/mês) | /groups/abrapsi/ · /groups/encontreumpsicologo/ · /groups/260694081066873/ |
