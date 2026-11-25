@@ -34,3 +34,7 @@
 | 2026-11-24 22:08 | Messenger | respondida | Lucas Oliveira (psicopedagogia/neuropsicopedagogia): modelo profissional com CTA. Nada pendente para o Caiam | — |
 | 2026-11-25 07:12 | obs | — | execução disparou às 07:06, antes da janela (8h43–21h43): posts e pedidos de entrada NÃO feitos; só Messenger | — |
 | 2026-11-25 07:12 | Messenger | respondidas (16) | modelo profissional com CTA: Heleuza Delage Silva, Deise Dillenburg, Michelle Godoy, Ana Claudia Argentino, Elisabete (perfil "Rainha Uva Uva"), Carolina Marques, Anna Mat, Josimar Oliveira, Cardoso Ro Gi (sem primeiro nome claro), Andreza Barcaro, Claudia Simone Moreira (TCC), Najla Costa, Gercilene Viana, Andréia Amorim, Casiandra Keller; modelo paciente: Cintia Borges ("como é o trabalho de vcs?"). Nada pendente para o Caiam | — |
+| 2026-11-25 07:13 | 🧩Mães Atípicas🧩 (19,6 mil) | pacientes (CNS, CTA TERAPIA) — rodada extra pedida pelo Caiam | pendente de aprovação | https://www.facebook.com/groups/1504464517338283/ |
+| 2026-11-25 07:15 | Fonoaudiologia (7,2 mil, 8 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/275335445922101/ |
+| 2026-11-25 07:15 | CONVIVENDO COM TDAH - PAIS E FILHOS (5,5 mil) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/563687887096230/ |
+| 2026-11-25 07:16 | Messenger | respondida | Arleth Rocha (neuropsicopedagoga/psicopedagoga): modelo profissional com CTA | — |

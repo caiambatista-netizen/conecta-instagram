@@ -135,6 +135,11 @@
       "obs": "grupo diferente do 'NEUROPSICOLOGIA' (caixa alta); link a confirmar",
       "prioridade": true,
       "comentarios_por_post_21a24": 19.0
+    },
+    {
+      "nome": "Fonoaudiologia (7,2 mil)",
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/275335445922101/"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -186,6 +191,10 @@
       "nome": "🧩Mães Atípicas🧩",
       "link": "https://www.facebook.com/groups/1504464517338283/",
       "obs": "regra: evitar política"
+    },
+    {
+      "nome": "CONVIVENDO COM TDAH - PAIS E FILHOS",
+      "link": "https://www.facebook.com/groups/563687887096230/"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
