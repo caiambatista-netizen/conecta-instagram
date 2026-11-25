@@ -79,8 +79,8 @@
 | 2026-11-25 15:49 | Amigos da Fonoaudiologia (4,3 mil; aceita anúncios) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1536398956669386/ |
 | 2026-11-25 15:47 | Análise do comportamento_Dicas e oportunidades (6,8 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/167662479964732/ |
 | 2026-11-25 16:10 | Eu sou mãe de um autista "o grupo" (12,8 mil, ~24 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/180424552773384/ |
-| 2026-11-25 16:50 | Fonoaudiologia - Divulgação de Cursos da Área e Afins. (15,7 mil) | profissionais (VAGA fonoaudiólogos) | pendente de aprovação (tentativa 1) | https://www.facebook.com/groups/163275770487257/ |
-| 2026-11-25 16:52 | Amigos da Fonoaudiologia / AT Acompanhante Terapêutico (3,4 mil) | profissionais | pulados: entrada da página ainda em análise | /groups/1536398956669386/ · /groups/1772414050184136/ |
-| 2026-11-25 16:56 | Psicologia Geral (2,1 mil, grupo de compra e venda) | profissionais (VAGA psicólogos) | pendente de aprovação (tentativa 2) | https://www.facebook.com/groups/812587872128289/ |
-| 2026-11-25 16:57 | AT Acompanhante Terapêutico (8,7 mil) / Neuropsicopedagogia | profissionais | pulados: post da Conecta aguardando aprovação (AT); post de ontem ainda no topo com 109 comentários (Neuro) | /groups/6132097473507834/ · /groups/1828727610733931/ |
-| 2026-11-25 17:00 | Fonoaudiologia (13 mil) | profissionais (VAGA fonoaudiólogos) | publicado (tentativa 3) | https://www.facebook.com/groups/194272290645417/ |
+| 2026-11-25 16:44 | Fonoaudiologia - Divulgação de Cursos da Área e Afins. (15,7 mil) | profissionais (VAGA fonoaudiólogos) | pendente de aprovação (tentativa 1) | https://www.facebook.com/groups/163275770487257/ |
+| 2026-11-25 16:44 | Amigos da Fonoaudiologia / AT Acompanhante Terapêutico (3,4 mil) | profissionais | pulados: entrada da página ainda em análise | /groups/1536398956669386/ · /groups/1772414050184136/ |
+| 2026-11-25 16:45 | Psicologia Geral (2,1 mil, grupo de compra e venda) | profissionais (VAGA psicólogos) | pendente de aprovação (tentativa 2) | https://www.facebook.com/groups/812587872128289/ |
+| 2026-11-25 16:46 | AT Acompanhante Terapêutico (8,7 mil) / Neuropsicopedagogia | profissionais | pulados: post da Conecta aguardando aprovação (AT); post de ontem ainda no topo com 109 comentários (Neuro) | /groups/6132097473507834/ · /groups/1828727610733931/ |
+| 2026-11-25 16:47 | Fonoaudiologia (13 mil) | profissionais (VAGA fonoaudiólogos) | publicado (tentativa 3) | https://www.facebook.com/groups/194272290645417/ |
