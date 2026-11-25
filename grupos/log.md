@@ -67,3 +67,4 @@
 | 2026-11-25 13:50 | Fonoaudiologia (3,6 mil, RN/Brasil, 6 posts hoje) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/254384184589671/ |
 | 2026-11-25 13:52 | grupo mães de crianças autistas (8,1 mil, 27 posts hoje) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/599650020995159/ |
 | 2026-11-25 13:51 | Mães e Pais de Crianças Com Autismo!! (143,9 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/878593935507457/ |
+| 2026-11-25 14:10 | grupo mães de crianças autistas (8,1 mil) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (página em análise como novo membro) | https://www.facebook.com/groups/599650020995159/ |
