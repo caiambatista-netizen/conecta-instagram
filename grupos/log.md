@@ -89,4 +89,7 @@
 | 2026-11-25 16:48 | Associação brasileira de Psicologia clínica (7,6 mil) / Encontre um psicólogo / Terapia Ocupacional (6,3 mil) | busca | pulados: exige CRP no post; só cartões de psicólogos e grupo parado; pouca atividade (14 posts/mês) | /groups/abrapsi/ · /groups/encontreumpsicologo/ · /groups/260694081066873/ |
 | 2026-11-25 17:08 | mãe de autista (116,9 mil) | pacientes | pulado: 2 posts da Conecta aguardando aprovação | https://www.facebook.com/groups/1284141732213401/ |
 | 2026-11-25 17:08 | Autismo não se cura, se compreende (46,3 mil, ~134 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/10046656992098041/ |
-| 2026-11-25 17:52 | Mural do psicólogo / psicanalista (6,8 mil) | profissionais (VAGA psicólogos e psicanalistas) | publicado | https://www.facebook.com/groups/muralpsi/ |
+| 2026-11-25 17:45 | Mural do psicólogo / psicanalista (6,8 mil) | profissionais (VAGA psicólogos e psicanalistas) | publicado | https://www.facebook.com/groups/muralpsi/ |
+| 2026-11-25 17:46 | mães atípicas (4,4 mil, ~27 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1121495496464913/ |
+| 2026-11-25 17:47 | FONOAUDIOLOGOS (2,4 mil, ~3 posts/dia) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/343529579075985/ |
+| 2026-11-25 17:46 | Psicopedagogiando todo dia / Grupo dos psicólogos clínicos de expressão portuguesa | busca | pulados: regras proíbem promoção/publicidade | /groups/1626126110990002/ · /groups/413203982160976/ |
