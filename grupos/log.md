@@ -40,3 +40,5 @@
 | 2026-11-25 07:16 | Messenger | respondida | Arleth Rocha (neuropsicopedagoga/psicopedagoga): modelo profissional com CTA | — |
 | 2026-11-25 07:38 | Dicas psicopedagógicas (10,7 mil) | profissionais (VAGA psicopedagogos) — rodada extra pedida pelo Caiam | pendente de aprovação | https://www.facebook.com/groups/366748050835273/ |
 | 2026-11-25 07:37 | Messenger | para o Caiam | Deise Dillenburg disse "Já fiz o cadastro" (07:26); Cintia Borges, depois do link de pacientes, perguntou de novo "Como funciona" (07:29). Fora dos modelos, não respondidas | — |
+| 2026-11-25 08:45 | Pais de crianças com TEA, TDAH, DDA, Dislexia, DPAC, TOD, DEL e outros (5,6 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/333163490468950/ |
+| 2026-11-25 08:45 | CONVIVENDO COM TDAH - PAIS E FILHOS | pacientes | pulado: entrada da página ainda em análise pelos admins (não aprovada) | https://www.facebook.com/groups/563687887096230/ |
