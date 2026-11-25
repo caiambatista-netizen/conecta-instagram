@@ -89,3 +89,4 @@
 | 2026-11-25 16:48 | Associação brasileira de Psicologia clínica (7,6 mil) / Encontre um psicólogo / Terapia Ocupacional (6,3 mil) | busca | pulados: exige CRP no post; só cartões de psicólogos e grupo parado; pouca atividade (14 posts/mês) | /groups/abrapsi/ · /groups/encontreumpsicologo/ · /groups/260694081066873/ |
 | 2026-11-25 17:08 | mãe de autista (116,9 mil) | pacientes | pulado: 2 posts da Conecta aguardando aprovação | https://www.facebook.com/groups/1284141732213401/ |
 | 2026-11-25 17:08 | Autismo não se cura, se compreende (46,3 mil, ~134 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/10046656992098041/ |
+| 2026-11-25 17:52 | Mural do psicólogo / psicanalista (6,8 mil) | profissionais (VAGA psicólogos e psicanalistas) | publicado | https://www.facebook.com/groups/muralpsi/ |
