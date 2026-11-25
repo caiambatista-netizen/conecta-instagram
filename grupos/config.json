@@ -15,11 +15,16 @@
     {
       "nome": "Neuropsicopedagogia",
       "categoria": "neuropsicopedagogos",
-      "link": "https://www.facebook.com/groups/1828727610733931/"
+      "link": "https://www.facebook.com/groups/1828727610733931/",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 27.0
     },
     {
       "nome": "Psicopedagogia e psicologia na Educação PNPE",
-      "categoria": "psicopedagogos e psicólogos escolares"
+      "categoria": "psicopedagogos e psicólogos escolares",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 68.0,
+      "link": "https://www.facebook.com/groups/1226746884395357/"
     },
     {
       "nome": "NEUROPSICOLOGIA",
@@ -37,7 +42,9 @@
     },
     {
       "nome": "Terapeutas Ocupacionais",
-      "categoria": "terapeutas ocupacionais"
+      "categoria": "terapeutas ocupacionais",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 45.0
     },
     {
       "nome": "Recursos para Terapia Ocupacional",
@@ -46,7 +53,9 @@
     },
     {
       "nome": "Vagas para Psicólogos Brasil",
-      "categoria": "psicólogos"
+      "categoria": "psicólogos",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 22.2
     },
     {
       "nome": "Vagas para Psicologo SP",
@@ -105,7 +114,27 @@
     },
     {
       "nome": "Dicas psicopedagógicas",
-      "link": "https://www.facebook.com/groups/366748050835273/"
+      "link": "https://www.facebook.com/groups/366748050835273/",
+      "categoria": "psicopedagogos"
+    },
+    {
+      "nome": "Clínica terapia trg",
+      "categoria": "profissionais (vários)",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 17.0
+    },
+    {
+      "nome": "Vagas Psicologia, Fonoaudiologia, T.O., Psicopedagogia e Fisioterapia.",
+      "categoria": "profissionais (vários)",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 17.9
+    },
+    {
+      "nome": "Neuropsicologia",
+      "categoria": "neuropsicólogos",
+      "obs": "grupo diferente do 'NEUROPSICOLOGIA' (caixa alta); link a confirmar",
+      "prioridade": true,
+      "comentarios_por_post_21a24": 19.0
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -202,5 +231,144 @@
     "Terapia Cognitivo Comportamental TCC",
     "Psicopedagogia Clínica e Institucional",
     "Neuropsicopedagogia e Aprendizagem"
+  ],
+  "grupos_pausados": [
+    {
+      "nome": "Psicopedagogia e Psicopedagogos",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Na prática com TRG",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Mães de Autistas De Manaus",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Internações/Psicólogos/Terapeutas/Conselheiros.",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "INCLUSÃO - AUTISMO E EDUCAÇÃO",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Grupo de apoio a pessoas com TDAH",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Fonoaudiologia Ocupacional (Vagas)",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Eu sou mãe de um autista \"o grupo\"",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Emprego em Psicologia",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Divulgue sua terapia Brasil e países de língua portuguesa",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Depressão, Ansiedade, Síndrome do Pânico e Insônia, Não é Frescura!",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "depressão e ansiedade",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "COMPORTAMENTOS NARCISISTAS…",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Autismo em palavras 123💙",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Autismo e educação",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Atendimento psicológico online, para adultos!!",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Ansiedade e Depressão",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "ABA - Autismo",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "Grupo de Apoio à Saúde Mental | Depressão, Ansiedade, Insônia e Saudade",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "mães atípicas",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    },
+    {
+      "nome": "relacionamentos abusivos",
+      "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
+      "desde": "2026-11-24"
+    }
+  ],
+  "textos_campeoes": {
+    "atualizado": "2026-11-24",
+    "obs": "Imitar o formato/ritmo; nunca copiar idêntico.",
+    "profissionais": [
+      {
+        "grupo": "Terapeutas Ocupacionais",
+        "comentarios": 69,
+        "data": "2026-11-21",
+        "inicio": "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚 Você é psicólogo(a), terapeuta ocupacional, fonoaudiólogo(a), psicopedagogo(a) ou atua em outra área terapêutica? A Conecta Terapias está ampliando sua rede para aproximar pessoas que procuram atendimento de profissionais compatíveis com suas necessidades."
+      },
+      {
+        "grupo": "psicopedagogia, neuropsicopedagogia e psicologia na Educação PNPE",
+        "comentarios": 68,
+        "data": "2026-11-21",
+        "inicio": "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚 A Conecta Terapias está ampliando sua rede de profissionais para aproximar quem procura atendimento de quem pode oferecer esse cuidado. Se você é psicólogo(a), terapeuta ocupacional, fonoaudiólogo(a), psicopedagogo(a) ou atua em outra área terapêutica, essa pode ser uma forma de receber novas oportunidades de encaminhamento."
+      }
+    ],
+    "pacientes": [
+      {
+        "grupo": "AUTISTA, TEA, TDAH e NEURODIVERGENTES",
+        "comentarios": 2,
+        "data": "2026-11-22",
+        "inicio": "Você não precisa descobrir qual profissional procurar sozinho(a). 💚 Psicólogo, neuropsicólogo, fonoaudiólogo ou terapeuta ocupacional? Quando a dúvida aparece, a Conecta Terapias ajuda a encontrar quem faz sentido para a sua necessidade, com registro verificado e conversa direta."
+      }
+    ]
+  },
+  "aprendizados": [
+    {
+      "data": "2026-11-24",
+      "texto": "Formato 'OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚' (abertura em caixa alta + lista de áreas + 'ampliando a rede') rendeu 6,5–23,7 coment./post em 21/11 (TO 69, PNPE 68, Vagas 59), acima do 'VAGA: X que atendem online' (8,7/post, mas posts de hoje ainda frescos; Neuropsicopedagogia 46 em 3h). Testar os dois em paralelo antes de trocar o modelo. 'Sua agenda ainda depende só de indicações?' fraco (0,6/post). '🚨 VAGA — PROFISSIONAIS DA SAÚDE' 23/11 quase tudo 1 visualização (grupos novos/pendentes)."
+    }
   ]
 }
