@@ -42,3 +42,11 @@
 | 2026-11-25 07:37 | Messenger | para o Caiam | Deise Dillenburg disse "Já fiz o cadastro" (07:26); Cintia Borges, depois do link de pacientes, perguntou de novo "Como funciona" (07:29). Fora dos modelos, não respondidas | — |
 | 2026-11-25 08:45 | Pais de crianças com TEA, TDAH, DDA, Dislexia, DPAC, TOD, DEL e outros (5,6 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/333163490468950/ |
 | 2026-11-25 08:45 | CONVIVENDO COM TDAH - PAIS E FILHOS | pacientes | pulado: entrada da página ainda em análise pelos admins (não aprovada) | https://www.facebook.com/groups/563687887096230/ |
+| 2026-11-25 08:46 | Neuropsicopedagogos (18,9 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/288648425111619/ |
+| 2026-11-25 08:46 | PSICOPEDAGOGIA (10,9 mil) | entrada (profissionais) | entrou; questionário (seguir página de educação pública) fechado sem responder; posts de novos membros passam por análise | https://www.facebook.com/groups/189679194459733/ |
+| 2026-11-25 08:46 | Derepente mãe de autista.! (20,2 mil, ~47 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/732537100724522/ |
+| 2026-11-25 08:47 | Messenger | respondida | Maria Mesias Gómez (pedagoga/psicopedagoga/neuropsicopedagoga): modelo profissional com CTA | — |
+| 2026-11-25 09:10 | Fonoaudiologia (7,2 mil) | profissionais | pulado: entrada da página ainda em análise pelos admins | https://www.facebook.com/groups/275335445922101/ |
+| 2026-11-25 09:11 | Psicopedagogos (2,7 mil) | profissionais (VAGA psicopedagogos) | publicado | https://www.facebook.com/groups/244318332309163/ |
+| 2026-11-25 09:13 | Messenger | respondidas (3) | modelo profissional com CTA: Livian Machado (psicopedagoga), Edlaine Vercillo (psicopedagogia); modelo estagiário: Fernanda Gabriela Santos ("Vocês recebem para estágio?") | — |
+| 2026-11-25 09:13 | Messenger | para o Caiam | Cintia Borges (09:08): "Como estou entrando no mercado, qual valor da consulta que normalmente cobram" — pergunta de valor de sessão, fora dos modelos; não respondida | — |
