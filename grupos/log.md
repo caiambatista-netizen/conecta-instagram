@@ -56,3 +56,6 @@
 | 2026-11-25 09:48 | AUTISMO ADULTO, INFANTIL, TDA, TDAH. / Psicologia e Educação Infantil / Mães de TDAH | busca | pulados: regras proíbem promoção | /groups/1746752929304914/ · /groups/psicologiaeducacao2017/ · /groups/438664620511665/ |
 | 2026-11-25 09:50 | Messenger | respondidas (2) | modelo profissional com CTA: Jaciara Faion (psicopedagoga), Bruna Beltrao (psicóloga e psicopedagoga) | — |
 | 2026-11-25 09:50 | Messenger | para o Caiam | Cintia Borges (09:37): "Qual valor seria acessível?" (segue perguntando valor de sessão); Jhenifer Emanuely Quadros (09:26): "Formada em Pedagogia" (pedagogia não está na lista de profissões); Fernanda Gabriela Santos: "Muito obrigada vou indicar" (sem resposta necessária) | — |
+| 2026-11-25 12:45 | Psicologia (12,9 mil, BH) | profissionais (VAGA psicólogos) | pendente de aprovação | https://www.facebook.com/groups/758270731596857/ |
+| 2026-11-25 12:44 | NEUROPSICOLOGIA | profissionais | pulado: post da Conecta pendente desde 23/11 | https://www.facebook.com/groups/267335870050078/ |
+| 2026-11-25 12:44 | Monte sua clínica - Psicólogo online | profissionais | pulado: entrada da página ainda em análise | https://www.facebook.com/groups/1711990055521845/ |
