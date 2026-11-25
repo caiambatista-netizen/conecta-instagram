@@ -1,14 +1,15 @@
 {
   "regras": {
     "posts_por_execucao": "2 profissionais + 1 pacientes",
-    "intervalo_minimo_dias_por_grupo": 7,
+    "intervalo_minimo_dias_por_grupo": 3,
     "postar_como": "Página Conecta Terapias",
     "cta": "Comente QUERO",
     "proibido": [
       "grupos de terapeutas holísticos/energéticos sem aprovação do Caiam",
       "preço, urgência, promoção",
       "listas numeradas 1. 2. 3."
-    ]
+    ],
+    "pendentes": "Post com 0–1 visualização normalmente NÃO é grupo morto: ficou pendente de aprovação/em análise. Antes de postar num grupo, abra a aba do grupo e veja se há post da Conecta 'aguardando aprovação'; se houver, não poste de novo ali e anote 'pendente' no log. Só considere grupo morto depois de 2 posts APROVADOS com 0 comentários."
   },
   "grupos": [
     {
@@ -168,5 +169,29 @@
       "Fora da janela de 24h o Facebook não deixa responder: só anotar."
     ],
     "area_reconhecida": "Quando a pessoa disser a profissão/abordagem, trocar {area_reconhecida} por uma frase curta citando a área, ex.: 'Tem muita gente procurando quem trabalha com TCC. ' / 'Psicopedagogia é uma das áreas mais procuradas aqui. ' — sem prometer número de pacientes. Se não disse a área, apagar {area_reconhecida}."
-  }
+  },
+  "grupos_verificar_aprovacao": [
+    "Psicanálise",
+    "ANÚNCIOS PARA TERAPEUTAS",
+    "Terapeutas TRG",
+    "Terapias online Brasil",
+    "Procuro Psicólogos Para Atendimento On-line",
+    "Universo da Psicopedagogia",
+    "PSICOPEDAGOGIA NO BRASIL",
+    "Terapia de casal",
+    "TERAPIA DE CASAL",
+    "FONOAUDIOLOGIA EMPREENDEDORA",
+    "PSICOMOTRICIDADE",
+    "Psiquiatria de Ligação",
+    "Psicologia Curitiba e Região",
+    "Eventos de Psicologia",
+    "Grupo PSIQUIATRIA DO BRASIL",
+    "Psicologia para todos!",
+    "Indicação de Psicólogos(as) Zona Sul - SP",
+    "Indicação de Psicólogos(as) Zona Norte - SP",
+    "Análise do Comportamento Aplicada - ABA",
+    "Terapia Cognitivo Comportamental TCC",
+    "Psicopedagogia Clínica e Institucional",
+    "Neuropsicopedagogia e Aprendizagem"
+  ]
 }
