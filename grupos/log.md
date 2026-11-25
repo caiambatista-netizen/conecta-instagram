@@ -95,3 +95,6 @@
 | 2026-11-25 17:46 | Psicopedagogiando todo dia / Grupo dos psicólogos clínicos de expressão portuguesa | busca | pulados: regras proíbem promoção/publicidade | /groups/1626126110990002/ · /groups/413203982160976/ |
 | 2026-11-25 18:10 | Grupo das mães de disléxicos, TDAH, autistas e outros transtornos. (27,6 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/619701198599472/ |
 | 2026-11-25 18:45 | Vagas para Psicólogos Brasil | profissionais (VAGA psicólogos) | publicado | https://www.facebook.com/groups/1090015912535279/ |
+| 2026-11-25 18:46 | TOD Transtorno Desafiante Opositor e TDAH (6,6 mil, ~4 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/817209768967772/ |
+| 2026-11-25 18:47 | Autismo e educação 📖📚 (15,4 mil, ~7 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/454352358021812/ |
+| 2026-11-25 18:46 | TDAH - TRANSTORNO DO DÉFICIT DE ATENÇÃO E HIPERATIVIDADE (6,2 mil) | busca | pulado: regras proíbem propaganda | https://www.facebook.com/groups/2897550410318654/ |
