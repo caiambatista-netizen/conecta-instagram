@@ -78,3 +78,4 @@
 | 2026-11-25 15:48 | Autismo não se cura, se compreende (46,3 mil, ~134 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/10046656992098041/ |
 | 2026-11-25 15:49 | Amigos da Fonoaudiologia (4,3 mil; aceita anúncios) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1536398956669386/ |
 | 2026-11-25 15:47 | Análise do comportamento_Dicas e oportunidades (6,8 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/167662479964732/ |
+| 2026-11-25 16:10 | Eu sou mãe de um autista "o grupo" (12,8 mil, ~24 posts/dia) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/180424552773384/ |

@@ -249,6 +249,11 @@
       "link": "https://www.facebook.com/groups/10046656992098041/",
       "entrou": "2026-11-25",
       "obs": "46 mil, ~134 posts/dia, sem regras contra divulgação"
+    },
+    {
+      "nome": "Eu sou mãe de um autista \"o grupo\"",
+      "link": "https://www.facebook.com/groups/180424552773384/",
+      "obs": "12,8 mil, ~24 posts/dia, regras só pedem respeito; publica direto"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -464,6 +469,7 @@
     "ansiedade e depressão": "pac",
     "Luto - Saudade Eterna": "pac",
     "Apoio a pessoas com TDAH": "pac",
-    "outros transtornos (TDAH, autistas)": "pac"
+    "outros transtornos (TDAH, autistas)": "pac",
+    "Eu sou mãe de um autista \"o grupo\"": "pac"
   }
 }
