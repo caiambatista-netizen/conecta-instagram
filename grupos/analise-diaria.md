@@ -1,6 +1,6 @@
 # Análise diária — 24/11/2026 (22h)
 
-Fonte: Biblioteca de Conteúdo, posts de 21/11 a 24/11 (247 linhas lidas, 23 "Pendente" = aguardando aprovação). Posts de hoje (24/11) ainda frescos: comentários vão subir.
+Fonte: Biblioteca de Conteúdo, posts de 21/11 a 24/11 (233 posts em grupos, 23 "Pendente" = aguardando aprovação). Posts de hoje (24/11) ainda frescos: comentários vão subir.
 
 | | Posts | Visualizações | Comentários | Coment./post |
 |---|---|---|---|---|
