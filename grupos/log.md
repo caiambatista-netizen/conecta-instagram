@@ -73,5 +73,8 @@
 | 2026-11-25 14:46 | AT Acompanhante Terapêutico (3,4 mil; aceita vagas AT) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1772414050184136/ |
 | 2026-11-25 14:46 | Neuropsicopedagogia (11,7 mil) / Psicopedagogia Institucional e Clínica / Psicologia SC | busca | pulados: regras proíbem promoção (os 2 primeiros); SC é coletivo de mobilização da categoria | /groups/278463860259527/ · /groups/950118901786598/ · /groups/fortalecersc/ |
 | 2026-11-25 15:09 | Explicando o autismo (29,7 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/706090341223652/ |
-| 2026-11-25 15:51 | Terapeutas ocupacionais (2,4 mil) / Terapeutas Ocupacionais (19 mil) / Emprego em Psicologia (8,6 mil) | profissionais | pulados: posts da Conecta aguardando aprovação | /groups/169262489799131/ · /groups/203215606386351/ · /groups/312004002569909/ |
-| 2026-11-25 15:51 | Vagas Psicologia Social BRASIL (4,3 mil) | profissionais (VAGA psicólogos) | publicado | https://www.facebook.com/groups/1001603696580458/ |
+| 2026-11-25 15:45 | Terapeutas ocupacionais (2,4 mil) / Terapeutas Ocupacionais (19 mil) / Emprego em Psicologia (8,6 mil) | profissionais | pulados: posts da Conecta aguardando aprovação | /groups/169262489799131/ · /groups/203215606386351/ · /groups/312004002569909/ |
+| 2026-11-25 15:46 | Vagas Psicologia Social BRASIL (4,3 mil) | profissionais (VAGA psicólogos) | publicado | https://www.facebook.com/groups/1001603696580458/ |
+| 2026-11-25 15:48 | Autismo não se cura, se compreende (46,3 mil, ~134 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/10046656992098041/ |
+| 2026-11-25 15:49 | Amigos da Fonoaudiologia (4,3 mil; aceita anúncios) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/1536398956669386/ |
+| 2026-11-25 15:47 | Análise do comportamento_Dicas e oportunidades (6,8 mil) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/167662479964732/ |

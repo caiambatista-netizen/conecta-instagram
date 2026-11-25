@@ -69,11 +69,13 @@
     },
     {
       "nome": "Vagas Psicologia Social BRASIL",
-      "categoria": "psicólogos"
+      "categoria": "psicólogos",
+      "link": "https://www.facebook.com/groups/1001603696580458/"
     },
     {
       "nome": "Emprego em Psicologia",
-      "categoria": "psicólogos"
+      "categoria": "psicólogos",
+      "link": "https://www.facebook.com/groups/312004002569909/"
     },
     {
       "nome": "Psicanalistas&futuros &Psicanalistas",
@@ -164,6 +166,13 @@
       "categoria": "acompanhantes terapêuticos",
       "link": "https://www.facebook.com/groups/1772414050184136/",
       "obs": "entrou em 25/11; descrição aceita divulgação de vagas AT"
+    },
+    {
+      "nome": "Amigos da Fonoaudiologia",
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/1536398956669386/",
+      "entrou": "2026-11-25",
+      "obs": "4,3 mil; descrição aceita anúncios"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -234,6 +243,12 @@
       "nome": "Explicando o autismo",
       "link": "https://www.facebook.com/groups/706090341223652/",
       "obs": "29,7 mil, ~110 posts/dia, regras sem proibição de divulgação; entrou em 25/11"
+    },
+    {
+      "nome": "Autismo não se cura, se compreende",
+      "link": "https://www.facebook.com/groups/10046656992098041/",
+      "entrou": "2026-11-25",
+      "obs": "46 mil, ~134 posts/dia, sem regras contra divulgação"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
