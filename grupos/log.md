@@ -25,3 +25,4 @@
 | 2026-11-24 19:58 | Neuropsicopedagogos e Psicopedagogos a favor da Educação | profissionais | pulado: post da Conecta pendente de aprovação | https://www.facebook.com/groups/162239357857639/ |
 | 2026-11-24 20:11 | PSICOLOGIA ψ (2,3 mil) | profissionais (VAGA psicólogos) — 2ª rodada manual | publicado | https://www.facebook.com/groups/162296430494895/ |
 | 2026-11-24 20:19 | obs | — | 3ª execução simultânea (outra sessão fez a rodada manual 19:44–20:07). Post de pacientes desta execução NÃO foi feito para evitar excesso no mesmo dia | — |
+| 2026-11-24 21:45 | MÃES E PAIS DE CRIANÇAS COM TDA/TDAH (10,2 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/1655806294713515/ |
