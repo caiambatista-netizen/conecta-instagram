@@ -30,3 +30,5 @@
 | 2026-11-24 21:48 | 🧩Mães Atípicas🧩 (19,5 mil) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1504464517338283/ |
 | 2026-11-24 21:48 | AT e Mediadores Escolares/ ABA e Denver | busca | pulado: inativo (3 posts no mês) | https://www.facebook.com/groups/223201129831467/ |
 | 2026-11-24 21:48 | Messenger | respondidas | Tayne Amabile Cichelli (psicologia infantil) e Rita Baltar (neuropsicopedagoga/ABA): modelo profissional com CTA | — |
+| 2026-11-24 22:09 | PSICOPEDAGOGIA & APRENDIZAGEM (104,8 mil) | profissionais (VAGA psicopedagogos) | pendente de aprovação | https://www.facebook.com/groups/2280751315318897/ |
+| 2026-11-24 22:08 | Messenger | respondida | Lucas Oliveira (psicopedagogia/neuropsicopedagogia): modelo profissional com CTA. Nada pendente para o Caiam | — |
