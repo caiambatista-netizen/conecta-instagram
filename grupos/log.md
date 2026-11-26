@@ -115,3 +115,6 @@
 | 2026-11-25 21:47 | Mães com filhos com TDAH, ansiedade, hiperativos (1,3 mil, ~11 posts/dia, objetivo inclui indicar profissionais) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1382606933018932/ |
 | 2026-11-25 21:48 | NEUROPSICOLOGIA (8,8 mil, 53 posts/mês, sem regras contra divulgação) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/neuropsicologia.pi/ |
 | 2026-11-25 21:48 | Pedagogia e PsicoPedagogia (24 mil) / Psicopedagogia na inclusão escolar / Pais de filhos com TDAH (10,6 mil) | busca | pulados: 8 posts/mês e bane pedido de contato; regras proíbem promoção; proíbe propaganda de profissionais | /groups/psicopedagogiadaluh/ · /groups/PsicopedagogaRosaneJeronymo/ · /groups/308755259540241/ |
+| 2026-11-25 22:10 | AUTISMO NOSSA REALIDADE (18,5 mil, ~4 posts/dia) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (tentativa 1; página em análise como novo participante) | https://www.facebook.com/groups/1125017624210932/ |
+| 2026-11-25 22:09 | Mães Atípicas (4,1 mil, 25 posts/dia) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/1857106598378364/ |
+| 2026-11-25 22:11 | Mães atípicas e autistas | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 2) | https://www.facebook.com/groups/1409987380247589/ |
