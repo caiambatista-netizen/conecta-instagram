@@ -437,6 +437,12 @@
       "link": "https://www.facebook.com/groups/289815205873451/",
       "entrou": "2026-11-26",
       "obs": "10,2 mil, ~18 posts/dia, sem regras; descrição pergunta 'quais especialistas levo meu filho?'"
+    },
+    {
+      "nome": "as mães atípicas",
+      "categoria": "mães atípicas",
+      "link": "https://www.facebook.com/groups/665319446130006/",
+      "entrou": "2026-11-26"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -692,6 +698,7 @@
     "Fonoaudiologia (5,6 mil) /groups/24036518751/": "prof",
     "Autismo em palavras 123 (34,7 mil) /groups/1669590680068730/": "pac",
     "GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC /groups/312814832126082/": "prof",
-    "TOD Transtorno Desafiante Opositor e TDAH /groups/817209768967772/": "pac"
+    "TOD Transtorno Desafiante Opositor e TDAH /groups/817209768967772/": "pac",
+    "Reflexão sobre autismo /groups/289815205873451/": "pac"
   }
 }
