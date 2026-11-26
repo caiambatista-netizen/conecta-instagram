@@ -259,6 +259,13 @@
       "categoria": "fonoaudiólogos",
       "link": "https://www.facebook.com/groups/24036518751/",
       "obs": "~7 posts/dia, sem regras; publica direto (26/11)"
+    },
+    {
+      "nome": "Psicologia e Neuropsicologia Clínica com Educação e Saúde",
+      "categoria": "psicólogos e neuropsicólogos",
+      "link": "https://www.facebook.com/groups/NEUROPSICOLOGIA.NEUROPSICOPEDAGOGIA/",
+      "entrou": "2026-11-26",
+      "obs": "2,9 mil, ~4 posts/dia, grupo de estudos, sem regras"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -413,6 +420,12 @@
       "link": "https://www.facebook.com/groups/1604255402987825/",
       "entrou": "2026-11-26",
       "obs": "2,1 mil, ~5 posts/dia, sem regras"
+    },
+    {
+      "nome": "MÃES E PAIS DE CRIANÇAS E ADOLESCENTES COM TDAH",
+      "link": "https://www.facebook.com/groups/1545262149053555/",
+      "entrou": "2026-11-26",
+      "obs": "4,9 mil, 32 posts/mês, sem regras"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
