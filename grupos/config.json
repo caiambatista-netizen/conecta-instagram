@@ -39,7 +39,8 @@
     {
       "nome": "Fonoaudiologia",
       "categoria": "fonoaudiólogos",
-      "link": "https://www.facebook.com/groups/194272290645417/"
+      "link": "https://www.facebook.com/groups/194272290645417/",
+      "prioridade": true
     },
     {
       "nome": "Terapeutas Ocupacionais",
@@ -99,12 +100,14 @@
     {
       "nome": "PSICOPEDAGOGIA & APRENDIZAGEM",
       "categoria": "psicopedagogos",
-      "link": "https://www.facebook.com/groups/2280751315318897/"
+      "link": "https://www.facebook.com/groups/2280751315318897/",
+      "prioridade": true
     },
     {
       "nome": "Psicopedagogos",
       "categoria": "psicopedagogos",
-      "link": "https://www.facebook.com/groups/244318332309163/"
+      "link": "https://www.facebook.com/groups/244318332309163/",
+      "prioridade": true
     },
     {
       "nome": "Monte sua clínica - Psicólogo online",
@@ -213,6 +216,11 @@
       "categoria": "neuropsicólogos",
       "link": "https://www.facebook.com/groups/neuropsicologia.pi/",
       "entrou": "2026-11-25"
+    },
+    {
+      "nome": "Psicologia (12,9 mil, BH)",
+      "categoria": "psicólogos",
+      "link": "https://www.facebook.com/groups/758270731596857/"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -499,29 +507,52 @@
       "nome": "relacionamentos abusivos",
       "motivo": "≥2 posts aprovados (21–23/11) e 0 comentários",
       "desde": "2026-11-24"
+    },
+    {
+      "nome": "Mães atípicas e autistas",
+      "motivo": "3 posts aprovados (22–25/11), 26 visualizações, 0 comentários",
+      "desde": "2026-11-25"
+    },
+    {
+      "nome": "Autismo (15,2 mil)",
+      "motivo": "2 posts aprovados (24–25/11) e 0 comentários",
+      "desde": "2026-11-25"
+    },
+    {
+      "nome": "Grupo das mães de disléxicos, TDAH, autistas e outros transtornos.",
+      "motivo": "2 posts aprovados (22 e 25/11) e 0 comentários",
+      "desde": "2026-11-25"
+    },
+    {
+      "nome": "Psicologia Geral",
+      "motivo": "2 posts aprovados (23 e 25/11) e 0 comentários",
+      "desde": "2026-11-25"
     }
   ],
   "textos_campeoes": {
-    "atualizado": "2026-11-24",
+    "atualizado": "2026-11-25",
     "obs": "Imitar o formato/ritmo; nunca copiar idêntico.",
     "profissionais": [
       {
-        "grupo": "Terapeutas Ocupacionais",
-        "comentarios": 69,
-        "data": "2026-11-21",
-        "inicio": "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚 Você é psicólogo(a), terapeuta ocupacional, fonoaudiólogo(a), psicopedagogo(a) ou atua em outra área terapêutica? A Conecta Terapias está ampliando sua rede para aproximar pessoas que procuram atendimento de profissionais compatíveis com suas necessidades."
+        "grupo": "Neuropsicopedagogia",
+        "comentarios": 145,
+        "visualizacoes": 2643,
+        "data": "2026-11-24",
+        "inicio": "VAGA: neuropsicopedagogos que atendem online 💚 Tem chegado aqui muita família procurando avaliação e intervenção neuropsicopedagógica para crianças com dificuldade de aprendizagem, TDAH e TEA. E nem sempre a gente tem profissional suficiente pra encaminhar."
       },
       {
-        "grupo": "psicopedagogia, neuropsicopedagogia e psicologia na Educação PNPE",
-        "comentarios": 68,
-        "data": "2026-11-21",
-        "inicio": "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚 A Conecta Terapias está ampliando sua rede de profissionais para aproximar quem procura atendimento de quem pode oferecer esse cuidado. Se você é psicólogo(a), terapeuta ocupacional, fonoaudiólogo(a), psicopedagogo(a) ou atua em outra área terapêutica, essa pode ser uma forma de receber novas oportunidades de encaminhamento."
+        "grupo": "PSICOPEDAGOGIA & APRENDIZAGEM",
+        "comentarios": 103,
+        "visualizacoes": 3416,
+        "data": "2026-11-24",
+        "inicio": "VAGA: psicopedagogos que atendem online 💚 Todo dia chegam famílias procurando ajuda com leitura, escrita e atenção das crianças, e psicopedagogia está entre as áreas mais pedidas na Conecta Terapias. Por isso estamos abrindo espaço para mais psicopedagogos atenderem pessoas de todo o Brasil, 100% online."
       }
     ],
     "pacientes": [
       {
         "grupo": "AUTISTA, TEA, TDAH e NEURODIVERGENTES",
         "comentarios": 2,
+        "visualizacoes": 95,
         "data": "2026-11-22",
         "inicio": "Você não precisa descobrir qual profissional procurar sozinho(a). 💚 Psicólogo, neuropsicólogo, fonoaudiólogo ou terapeuta ocupacional? Quando a dúvida aparece, a Conecta Terapias ajuda a encontrar quem faz sentido para a sua necessidade, com registro verificado e conversa direta."
       }
@@ -531,13 +562,20 @@
     {
       "data": "2026-11-24",
       "texto": "Formato 'OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚' (abertura em caixa alta + lista de áreas + 'ampliando a rede') rendeu 6,5–23,7 coment./post em 21/11 (TO 69, PNPE 68, Vagas 59), acima do 'VAGA: X que atendem online' (8,7/post, mas posts de hoje ainda frescos; Neuropsicopedagogia 46 em 3h). Testar os dois em paralelo antes de trocar o modelo. 'Sua agenda ainda depende só de indicações?' fraco (0,6/post). '🚨 VAGA — PROFISSIONAIS DA SAÚDE' 23/11 quase tudo 1 visualização (grupos novos/pendentes)."
+    },
+    {
+      "data": "2026-11-25",
+      "texto": "VAGA confirmado como formato vencedor em profissionais: 'VAGA: <especialidade> que atendem online 💚' + demanda concreta das famílias (ex.: 'leitura, escrita e atenção', 'TDAH e TEA') = 19,8 coment./post em 22–25/11 (18 posts, 357 coment.), contra OPORTUNIDADE 2,0, '🚨 VAGA — PROFISSIONAIS DA SAÚDE' 2,1, 'Sua agenda...' 0,9 e outros ganchos 2,75. Nenhum formato novo superou o VAGA. Psicopedagogia/neuropsicopedagogia são os nichos mais quentes (Neuro 145, Psicopedagogia & Aprendizagem 103, Psicopedagogos 47)."
+    },
+    {
+      "data": "2026-11-25",
+      "texto": "Pacientes: 0 comentários em 29 posts aprovados de 23–25/11 (visualizações 0–68/post). A regra '≥2 aprovados e 0 comentários → pausar' vai esvaziar a lista de pacientes; medir pacientes por visualizações e mensagens no Messenger, não só por comentário. Grupos pausados ainda receberam post (ex.: 'Eu sou mãe de um autista' em 25/11): a rodada precisa checar grupos_pausados antes de postar."
     }
   ],
   "grupos_publica_direto": {
     "Neuropsicopedagogia": "prof",
     "Fonoaudiologia": "prof",
     "AUTISTA, TEA, TDAH e NEURODIVERGENTES": "pac",
-    "Mães atípicas e autistas": "pac",
     "Terapia Ocupacional - Saúde Funcional": "prof",
     "PSICOLOGIA ψ": "prof",
     "MÃES E PAIS DE CRIANÇAS COM TDA/TDAH": "pac",
@@ -549,7 +587,6 @@
     "Vagas Psicologia, Fonoaudiologia, T.O., Psicopedagogia e Fisioterapia.": "prof",
     "Fonoaudiologia Brasil": "prof",
     "Terapeutas Ocupacionais": "prof",
-    "Emprego em Psicologia": "prof",
     "Vagas Psicologia Social BRASIL": "prof",
     "Mural do psicólogo / psicanalista": "prof",
     "PSICÓLOGOS E PSICOTERAPEUTAS E ESTUDANTES": "prof",
@@ -558,12 +595,9 @@
     "Luto - Saudade Eterna": "pac",
     "Apoio a pessoas com TDAH": "pac",
     "outros transtornos (TDAH, autistas)": "pac",
-    "Eu sou mãe de um autista \"o grupo\"": "pac",
     "Fonoaudiologia (13 mil) /groups/194272290645417/": "prof",
     "Autismo não se cura, se compreende": "pac",
-    "Grupo das mães de disléxicos, TDAH, autistas e outros transtornos.": "pac",
     "Tudo Sobre o Universo Do Autismo ( Autistas )": "pac",
-    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof",
-    "Autismo (15,2 mil)": "pac"
+    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof"
   }
 }

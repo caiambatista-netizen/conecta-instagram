@@ -1,21 +1,25 @@
-# Análise diária — 24/11/2026 (22h)
+# Análise diária — 25/11/2026 (22h)
 
-Fonte: Biblioteca de Conteúdo, posts de 21/11 a 24/11 (233 posts em grupos, 23 "Pendente" = aguardando aprovação). Posts de hoje (24/11) ainda frescos: comentários vão subir.
+Fonte: Biblioteca de Conteúdo, posts de 22/11 a 25/11 (179 linhas; 25 "Pendente" = aguardando aprovação, 13 prof. + 12 pac.). Posts de hoje ainda frescos: os comentários vão subir.
 
-| | Posts | Visualizações | Comentários | Coment./post |
+| | Posts aprovados | Visualizações | Comentários | Coment./post |
 |---|---|---|---|---|
-| Hoje 24/11 (prof.) | 14 | 1.426 | 56 | 4,0 |
-| Hoje 24/11 (pac.) | 11 | 51 | 0 | 0 |
-| Ontem 23/11 (prof.) | 16 | 1.856 | 21 | 1,3 |
-| Ontem 23/11 (pac.) | 6 | 84 | 0 | 0 |
-| 21–24/11 total prof. | 117 | 31.387 | 619 | 5,3 |
-| 21–24/11 total pac. | 93 | 1.847 | 2 | 0,02 |
+| Hoje 25/11 (prof.) | 12 | 1.916 | 74 | 6,2 |
+| Hoje 25/11 (pac.) | 12 | 200 | 0 | 0 |
+| Ontem 24/11 (prof.) | 14 | 8.833 | 305 | 21,8 |
+| Ontem 24/11 (pac.) | 11 | 135 | 0 | 0 |
+| 22–25/11 prof. | 72 | 17.576 | 452 | 6,3 |
+| 22–25/11 pac. | 78 | 1.592 | 2 | 0,03 |
 
-**Top grupos (coment./post, 21–24/11):** PNPE 68 · Terapeutas Ocupacionais 45 · Neuropsicopedagogia 27 · Vagas para Psicólogos Brasil 22 · Neuropsicologia 19 · Vagas Psicologia/Fono/T.O. 18 · Clínica terapia trg 17.
+**Por formato (prof., 22–25/11):** VAGA: X 19,8/post (18 posts, 357 coment.) · outros ganchos 2,75 · 🚨 VAGA 2,1 · OPORTUNIDADE 2,0 · "Sua agenda..." 0,9.
 
-**Melhor texto:** "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚 A Conecta Terapias está ampliando sua rede…" (PNPE, 68 coment.). Hoje: "VAGA: neuropsicopedagogos que atendem online 💚" no Neuropsicopedagogia = 46 coment. em 3h.
+**Top grupos (coment./post):** PSICOPEDAGOGIA & APRENDIZAGEM 103 · Neuropsicopedagogia 72,5 (145 no post de 24/11) · Psicopedagogos 47 (hoje) · Terapeutas Ocupacionais 21 · Clínica terapia trg 18 · Psicopedagogia 14 · Fonoaudiologia (13 mil) ~14.
+
+**Melhor texto:** "VAGA: neuropsicopedagogos que atendem online 💚 Tem chegado aqui muita família procurando avaliação e intervenção neuropsicopedagógica para crianças com dificuldade de aprendizagem, TDAH e TEA…" (145 coment., 2.643 visualizações).
+
+**Config atualizado:** pausados Mães atípicas e autistas, Autismo (15,2 mil), Grupo das mães de disléxicos…, Psicologia Geral (e retirados de grupos_publica_direto junto com Eu sou mãe de um autista e Emprego em Psicologia); prioridade para PSICOPEDAGOGIA & APRENDIZAGEM, Psicopedagogos e Fonoaudiologia (13 mil); Psicologia (BH) entrou na lista de profissionais.
 
 ## 3 aprendizados
-1. **Profissionais = onde estão os leads.** O formato "OPORTUNIDADE PARA PROFISSIONAIS DA SAÚDE 💚" (caixa alta + lista de áreas) e o "VAGA: X que atendem online" empatam no topo; "Sua agenda ainda depende só de indicações?" é fraco (0,6/post). Rodar os dois campeões em paralelo.
-2. **Pacientes quase não comentam** (2 comentários em 93 posts). Grupos de autismo/TDAH e "ansiedade e depressão" dão visualização (até 189), mas o CTA "comenta TERAPIA" não converte em grupo. Testar CTA de mensagem privada/link e medir pelo Messenger, não só por comentário.
-3. **Concentrar nos grupos grandes de vagas/nicho** (PNPE, T.O., Neuropsicopedagogia, Vagas Psicólogos): 7 grupos = ~75% dos comentários. 21 grupos com ≥2 posts e 0 comentários foram pausados no config. Muitos posts de 23/11 ficaram com 1 visualização = grupo novo/pendente.
+1. **VAGA + demanda concreta continua imbatível.** Citar o problema real das famílias ("leitura, escrita e atenção", "TDAH e TEA") no 2º parágrafo é o que separa 100+ comentários de 20. Nenhum formato novo superou.
+2. **Psicopedagogia/neuropsicopedagogia são o filão.** Os 3 maiores posts dos 4 dias são desse nicho. Revezar os grupos desse nicho (respeitando 3 dias de descanso) antes de abrir nichos frios.
+3. **Pacientes: 0 comentários em 29 posts (23–25/11).** Pela regra, mais 4 grupos de pacientes foram pausados; se seguir assim, a lista esvazia. Medir pacientes pelo Messenger e testar outro CTA. Atenção: grupo pausado ainda recebeu post hoje, e houve post em "Terapias e terapeutas holísticos" (24/11), proibido sem aprovação do Caiam.
