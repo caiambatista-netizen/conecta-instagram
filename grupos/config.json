@@ -253,6 +253,12 @@
       "categoria": "psicopedagogos",
       "link": "https://www.facebook.com/groups/430757442223411/",
       "obs": "~10 posts/dia, sem regras; publica direto (26/11)"
+    },
+    {
+      "nome": "Fonoaudiologia (5,6 mil)",
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/24036518751/",
+      "obs": "~7 posts/dia, sem regras; publica direto (26/11)"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -658,6 +664,7 @@
     "mãe de crianças com autismo": "pac",
     "Autismo e deficiência intelectual eplepsia": "pac",
     "Psicopedagogia (7,4 mil) /groups/430757442223411/": "prof",
-    "Mães com filhos com TDAH, ansiedade, hiperativos": "pac"
+    "Mães com filhos com TDAH, ansiedade, hiperativos": "pac",
+    "Fonoaudiologia (5,6 mil) /groups/24036518751/": "prof"
   }
 }

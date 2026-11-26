@@ -142,3 +142,5 @@
 | 2026-11-26 10:48 | TDAH - Trabalho Desafio Amor Humor (22,6 mil) | busca | pulado: regras proíbem propaganda/divulgação | https://www.facebook.com/groups/920630924624631/ |
 | 2026-11-26 11:07 | Mães com filhos com TDAH, ansiedade, hiperativos (1,3 mil) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 1) | https://www.facebook.com/groups/1382606933018932/ |
 | 2026-11-26 11:07 | grupos_publica_direto de pacientes | escolha | todos receberam post há < 3 dias; usado grupo em aquecimento (entrou 25/11) | - |
+| 2026-11-26 11:46 | Fonoaudiologia (5,6 mil, 7 posts hoje, sem regras) | profissionais (VAGA fonoaudiólogos) | publicado (tentativa 1) | https://www.facebook.com/groups/24036518751/ |
+| 2026-11-26 11:46 | grupos_publica_direto de profissionais | escolha | todos receberam post há < 3 dias (os sem link não aparecem em 'Seus grupos'); usado grupo antigo já membro sem post no log | - |
