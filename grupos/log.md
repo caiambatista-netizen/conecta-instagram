@@ -124,3 +124,5 @@
 | 2026-11-26 08:55 | Fonoaudiólogos Rio de Janeiro (2,8 mil, ~18 posts/dia, troca de currículos/encaminhamentos) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/314115352109636/ |
 | 2026-11-26 08:57 | Autista não tem cara. (18,9 mil, ~24 posts/dia, sem regras) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/347365089274085/ |
 | 2026-11-26 08:56 | Mães e Pais de Autistas.. (22,3 mil) / Oportunidades Fonoaudiologia RJ (7,4 mil) | busca | pulados: regras proíbem promoção; só vagas presenciais no RJ | /groups/199231943538252/ · /groups/141981976225025/ |
+| 2026-11-26 09:15 | Autismo e educação 📖📚 (15,4 mil) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (tentativa 1) | https://www.facebook.com/groups/454352358021812/ |
+| 2026-11-26 09:17 | mãe de crianças com autismo (6,9 mil) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 2) | https://www.facebook.com/groups/644398575762071/ |
