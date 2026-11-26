@@ -228,6 +228,25 @@
       "link": "https://www.facebook.com/groups/314115352109636/",
       "obs": "2,8 mil, ~18 posts/dia, sem regras contra divulgação",
       "entrou": "2026-11-26"
+    },
+    {
+      "nome": "DIVULGA PSICO",
+      "categoria": "psicólogos",
+      "link": "https://www.facebook.com/groups/707029353008323/",
+      "obs": "7,1 mil; post de 22/11 aprovado com comentários"
+    },
+    {
+      "nome": "Psicologia Clínica - Brasil",
+      "categoria": "psicólogos",
+      "link": "https://www.facebook.com/groups/1709158102666755/",
+      "obs": "2,7 mil; post de 21/11 aprovado"
+    },
+    {
+      "nome": "Psicólogos, Psicanalistas, Psiquiatras ... Galera PSI",
+      "categoria": "psicólogos e psicanalistas",
+      "link": "https://www.facebook.com/groups/208055149233597/",
+      "entrou": "2026-11-26",
+      "obs": "2,1 mil, 18 posts/mês, sem regras"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -365,6 +384,12 @@
       "link": "https://www.facebook.com/groups/347365089274085/",
       "obs": "18,9 mil, ~24 posts/dia, sem regras",
       "entrou": "2026-11-26"
+    },
+    {
+      "nome": "Autismo em mulheres adultas",
+      "link": "https://www.facebook.com/groups/755193022998502/",
+      "entrou": "2026-11-26",
+      "obs": "19,1 mil, ~32 posts/dia, regra só pede gentileza/acolhimento"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
