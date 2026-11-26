@@ -368,7 +368,7 @@
     {
       "nome": "TOD Transtorno Desafiante Opositor e TDAH",
       "link": "https://www.facebook.com/groups/817209768967772/",
-      "obs": "6,6 mil, ~4 posts/dia, sem regras contra divulgação",
+      "obs": "6,6 mil, ~4 posts/dia, sem regras contra divulgação; publica direto (26/11)",
       "entrou": "2026-11-25"
     },
     {
@@ -431,6 +431,12 @@
       "nome": "Autismo em palavras 123💙",
       "link": "https://www.facebook.com/groups/1669590680068730/",
       "obs": "34,7 mil, ~127 posts/dia, sem regras; publica direto (26/11)"
+    },
+    {
+      "nome": "Reflexão sobre autismo",
+      "link": "https://www.facebook.com/groups/289815205873451/",
+      "entrou": "2026-11-26",
+      "obs": "10,2 mil, ~18 posts/dia, sem regras; descrição pergunta 'quais especialistas levo meu filho?'"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -685,6 +691,7 @@
     "Mães com filhos com TDAH, ansiedade, hiperativos": "pac",
     "Fonoaudiologia (5,6 mil) /groups/24036518751/": "prof",
     "Autismo em palavras 123 (34,7 mil) /groups/1669590680068730/": "pac",
-    "GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC /groups/312814832126082/": "prof"
+    "GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC /groups/312814832126082/": "prof",
+    "TOD Transtorno Desafiante Opositor e TDAH /groups/817209768967772/": "pac"
   }
 }
