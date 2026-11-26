@@ -247,6 +247,12 @@
       "link": "https://www.facebook.com/groups/208055149233597/",
       "entrou": "2026-11-26",
       "obs": "2,1 mil, 18 posts/mês, sem regras"
+    },
+    {
+      "nome": "Psicopedagogia (7,4 mil)",
+      "categoria": "psicopedagogos",
+      "link": "https://www.facebook.com/groups/430757442223411/",
+      "obs": "~10 posts/dia, sem regras; publica direto (26/11)"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -644,6 +650,7 @@
     "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof",
     "Psicanálise Online": "prof",
     "mãe de crianças com autismo": "pac",
-    "Autismo e deficiência intelectual eplepsia": "pac"
+    "Autismo e deficiência intelectual eplepsia": "pac",
+    "Psicopedagogia (7,4 mil) /groups/430757442223411/": "prof"
   }
 }
