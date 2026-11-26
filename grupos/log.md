@@ -150,3 +150,6 @@
 | 2026-11-26 12:13 | comunidade de apoio a família de crianças, jovens e adultos autistas (9,7 mil) / INCLUSÃO - AUTISMO E EDUCAÇÃO (5,2 mil) / Superando o Autismo (61,4 mil) | pacientes | pulados: sem caixa de post para a página; grupo com regra de spam/conteúdo adulto; regras proíbem promoção | /groups/471838856896056/ · /groups/1440979676214280/ · /groups/1521379767945560/ |
 | 2026-11-26 12:13 | Autismo em palavras 123💙 (34,7 mil, ~127 posts/dia, sem regras) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 1) | https://www.facebook.com/groups/1669590680068730/ |
 | 2026-11-26 12:13 | grupos_publica_direto de pacientes | escolha | todos receberam post há < 3 dias; usado grupo antigo já membro sem post no log | - |
+| 2026-11-26 12:45 | grupos_publica_direto de profissionais | escolha | todos receberam post há < 3 dias; grupos antigos já membros também com post/pendente recente; usados grupos em aquecimento | - |
+| 2026-11-26 12:45 | NEUROPSICOLOGIA (8,8 mil) | profissionais (VAGA neuropsicólogos) | pendente de aprovação (tentativa 1) | https://www.facebook.com/groups/neuropsicologia.pi/ |
+| 2026-11-26 12:47 | GRUPO TERAPIA COGNITIVO-COMPORTAMENTAL . TCC (2,6 mil) | profissionais (VAGA psicólogos TCC) | publicado (tentativa 2) | https://www.facebook.com/groups/312814832126082/ |
