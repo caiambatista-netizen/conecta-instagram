@@ -140,3 +140,5 @@
 | 2026-11-26 10:48 | Mães e pais de filhos com tdah tod e tc (2,1 mil, ~5 posts/dia, sem regras) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1604255402987825/ |
 | 2026-11-26 10:48 | Empregos e Trabalhos para Fonoaudiólogos (13 mil, privado, grupo de vagas, aceita páginas) | entrada (profissionais) | pedido pendente | https://www.facebook.com/groups/391118561041018/ |
 | 2026-11-26 10:48 | TDAH - Trabalho Desafio Amor Humor (22,6 mil) | busca | pulado: regras proíbem propaganda/divulgação | https://www.facebook.com/groups/920630924624631/ |
+| 2026-11-26 11:07 | Mães com filhos com TDAH, ansiedade, hiperativos (1,3 mil) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 1) | https://www.facebook.com/groups/1382606933018932/ |
+| 2026-11-26 11:07 | grupos_publica_direto de pacientes | escolha | todos receberam post há < 3 dias; usado grupo em aquecimento (entrou 25/11) | - |
