@@ -118,3 +118,9 @@
 | 2026-11-25 22:10 | AUTISMO NOSSA REALIDADE (18,5 mil, ~4 posts/dia) | pacientes (CNS, CTA TERAPIA) | pendente de aprovação (tentativa 1; página em análise como novo participante) | https://www.facebook.com/groups/1125017624210932/ |
 | 2026-11-25 22:09 | Mães Atípicas (4,1 mil, 25 posts/dia) | busca | pulado: regras proíbem promoção | https://www.facebook.com/groups/1857106598378364/ |
 | 2026-11-25 22:11 | Mães atípicas e autistas | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 2) | https://www.facebook.com/groups/1409987380247589/ |
+| 2026-11-26 08:47 | Indicação de Psicólogos Brasileiros (9,6 mil) | profissionais (VAGA psicólogos) | pendente de aprovação (tentativa 1) | https://www.facebook.com/groups/psicologosbrasileiros/ |
+| 2026-11-26 08:49 | Psicanálise Online (2,4 mil) | profissionais (VAGA psicanalistas) | publicado (tentativa 2) | https://www.facebook.com/groups/860725707987696/ |
+| 2026-11-26 08:47 | grupos_publica_direto de profissionais | escolha | todos receberam post há < 3 dias (24–25/11); usados grupos em aquecimento | - |
+| 2026-11-26 08:55 | Fonoaudiólogos Rio de Janeiro (2,8 mil, ~18 posts/dia, troca de currículos/encaminhamentos) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/314115352109636/ |
+| 2026-11-26 08:57 | Autista não tem cara. (18,9 mil, ~24 posts/dia, sem regras) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/347365089274085/ |
+| 2026-11-26 08:56 | Mães e Pais de Autistas.. (22,3 mil) / Oportunidades Fonoaudiologia RJ (7,4 mil) | busca | pulados: regras proíbem promoção; só vagas presenciais no RJ | /groups/199231943538252/ · /groups/141981976225025/ |

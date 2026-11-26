@@ -221,6 +221,13 @@
       "nome": "Psicologia (12,9 mil, BH)",
       "categoria": "psicólogos",
       "link": "https://www.facebook.com/groups/758270731596857/"
+    },
+    {
+      "nome": "Fonoaudiólogos Rio de Janeiro",
+      "categoria": "fonoaudiólogos",
+      "link": "https://www.facebook.com/groups/314115352109636/",
+      "obs": "2,8 mil, ~18 posts/dia, sem regras contra divulgação",
+      "entrou": "2026-11-26"
     }
   ],
   "modelo_texto": "VAGA: {categoria} que atendem online 💚\n\nA Conecta Terapias está ampliando a rede e procura {categoria} para atender pessoas de todo o Brasil, 100% online.\n\n✅ Você define o valor da sua sessão\n✅ Conhece cada encaminhamento e decide se aceita\n✅ Sem comissão sobre os atendimentos\n\nQuer saber como participar? Comente QUERO que eu te mando o link no privado. 💚",
@@ -352,6 +359,12 @@
       "nome": "Mães com filhos com TDAH, ansiedade, hiperativos",
       "link": "https://www.facebook.com/groups/1382606933018932/",
       "entrou": "2026-11-25"
+    },
+    {
+      "nome": "Autista não tem cara.",
+      "link": "https://www.facebook.com/groups/347365089274085/",
+      "obs": "18,9 mil, ~24 posts/dia, sem regras",
+      "entrou": "2026-11-26"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -598,6 +611,7 @@
     "Fonoaudiologia (13 mil) /groups/194272290645417/": "prof",
     "Autismo não se cura, se compreende": "pac",
     "Tudo Sobre o Universo Do Autismo ( Autistas )": "pac",
-    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof"
+    "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof",
+    "Psicanálise Online": "prof"
   }
 }
