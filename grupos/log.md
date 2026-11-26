@@ -137,3 +137,6 @@
 | 2026-11-26 10:13 | Autismo e deficiência intelectual eplepsia (4,9 mil; últimos posts 21–22/11) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 1) | https://www.facebook.com/groups/516763993150392/ |
 | 2026-11-26 10:48 | Terapeutas ocupacionais (/groups/169262489799131/) | profissionais | pulado: post da Conecta de 21/11 aguardando aprovação | https://www.facebook.com/groups/169262489799131/ |
 | 2026-11-26 10:53 | Psicopedagogia (7,4 mil, ~10 posts/dia, sem regras) | profissionais (VAGA psicopedagogos) | publicado (tentativa 1) | https://www.facebook.com/groups/430757442223411/ |
+| 2026-11-26 10:57 | Mães e pais de filhos com tdah tod e tc (2,1 mil, ~5 posts/dia, sem regras) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/1604255402987825/ |
+| 2026-11-26 10:59 | Empregos e Trabalhos para Fonoaudiólogos (13 mil, privado, grupo de vagas, aceita páginas) | entrada (profissionais) | pedido pendente | https://www.facebook.com/groups/391118561041018/ |
+| 2026-11-26 10:56 | TDAH - Trabalho Desafio Amor Humor (22,6 mil) | busca | pulado: regras proíbem propaganda/divulgação | https://www.facebook.com/groups/920630924624631/ |
