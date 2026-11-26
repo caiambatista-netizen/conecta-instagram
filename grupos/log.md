@@ -110,3 +110,5 @@
 | 2026-11-25 20:48 | mãe de crianças com autismo (6,9 mil, ~14 posts/dia) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/644398575762071/ |
 | 2026-11-25 20:46 | TCC - Terapia Cognitivo-Comportamental (36,6 mil) | busca | pulado: grupo parado (0 posts no último mês) | https://www.facebook.com/groups/tccibneuro/ |
 | 2026-11-25 21:06 | AUTISTA, TEA, TDAH e NEURODIVERGENTES (10 mil) | pacientes (CNS, CTA TERAPIA) | publicado | https://www.facebook.com/groups/3478498825616158/ |
+| 2026-11-25 21:44 | PSICOPEDAGOGIA NO BRASIL / Universo da Psicopedagogia (13,6 mil) / PROFISSIONAIS DE PSICOLOGIA DO BRASIL (17,4 mil) | profissionais | pulados: posts da Conecta aguardando aprovação (os 2 primeiros); regras exigem CRP e proíbem fins comerciais (o 3º) | /groups/1445734972383558/ · /groups/314518511980311/ · /groups/1848442488540292/ |
+| 2026-11-25 21:46 | Neuropsicopedagogia (22,1 mil) | profissionais (VAGA neuropsicopedagogos) | publicado | https://www.facebook.com/groups/1828727610733931/ |
