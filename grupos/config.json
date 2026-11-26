@@ -390,6 +390,11 @@
       "link": "https://www.facebook.com/groups/755193022998502/",
       "entrou": "2026-11-26",
       "obs": "19,1 mil, ~32 posts/dia, regra só pede gentileza/acolhimento"
+    },
+    {
+      "nome": "Autismo e deficiência intelectual eplepsia",
+      "link": "https://www.facebook.com/groups/516763993150392/",
+      "obs": "4,9 mil; publica direto (21, 22 e 26/11)"
     }
   ],
   "modelo_texto_pacientes": "Tom acolhedor, sem gancho de medo, sem diagnóstico, sem promessa. Ex.: 'Às vezes o primeiro passo é só conversar com alguém que entende. 💚 Na Conecta Terapias você encontra psicólogos que atendem online, escolhe com calma quem combina com você e começa com um acolhimento gratuito. O valor da sessão é combinado direto com o profissional. Se quiser, comenta TERAPIA ou me chama no privado que eu te mando o link.' Variar sempre o texto.",
@@ -638,6 +643,7 @@
     "Tudo Sobre o Universo Do Autismo ( Autistas )": "pac",
     "Psicopedagogia Clínica - Terapia para dificuldades de aprendizagem": "prof",
     "Psicanálise Online": "prof",
-    "mãe de crianças com autismo": "pac"
+    "mãe de crianças com autismo": "pac",
+    "Autismo e deficiência intelectual eplepsia": "pac"
   }
 }

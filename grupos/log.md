@@ -134,3 +134,4 @@
 | 2026-11-26 09:49 | Autismo em mulheres adultas (19,1 mil, ~32 posts/dia, regra só pede acolhimento) | entrada (pacientes) | aprovado na hora | https://www.facebook.com/groups/755193022998502/ |
 | 2026-11-26 09:50 | Psicólogos, Psicanalistas, Psiquiatras ... Galera PSI (2,1 mil, 18 posts/mês, sem regras) | entrada (profissionais) | aprovado na hora | https://www.facebook.com/groups/208055149233597/ |
 | 2026-11-26 09:50 | Mães de TDAH (21,7 mil) / Análise do comportamento_Dicas e oportunidades / Neuropsicopedagogos (18,9 mil) / Neuropsicopedagogia (11,7 mil) | busca | pulados: regras proíbem promoção/vendas | /groups/438664620511665/ · /groups/167662479964732/ · /groups/288648425111619/ · /groups/278463860259527/ |
+| 2026-11-26 10:13 | Autismo e deficiência intelectual eplepsia (4,9 mil; últimos posts 21–22/11) | pacientes (CNS, CTA TERAPIA) | publicado (tentativa 1) | https://www.facebook.com/groups/516763993150392/ |
